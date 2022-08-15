@@ -1,124 +1,95 @@
 ---
 layout: default
 ---
-Jun 上海雪树科技有限公司 | Shanghai Snow Tree Technology Co., Ltd.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+平台域名asnowtree.cn
 
-There should be whitespace between paragraphs.
+```
+个人特色 爱好 工作 生活技巧 参考 指导
+# 文章分享
+# 信息分享
+# 资源信息
+# 技术信息
+# 时间人员信息
+# 需求信息
+```
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+生活服务网络平台
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+> 思想先行。 平台首先要凸显价值观，本平台尊重劳动成果，提倡遵守约定，动手创造价值，合理自由的资源分享，提供合适的积极的环境。
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> 在这个平台你能获得什么呢，人们为什么来这个平台？这是平台本身需要思考的。
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+平台通过较好的生活技术交流环境，多元信誉的供需信息数据，使平台能够给人们生活带来方便，带来价值或者引导人有所收获或者学会技能。让用户在平台能够参与自己感兴趣的事，或者活动，通过平台服务直接或者间接感受到充实生活。
+![](https://docs.asnowtree.cn/images/3/27/服务平台1.png)
+## 用户
+用户作为平台的重要组成元素，用户在平台会有自己的爱好、博客、活动记录。
+整个平台通过用户的参与带动活跃
+![](https://docs.asnowtree.cn/images/4/32/平台生态.drawio.png)
 
 
-### Definition lists can be used with HTML syntax.
+## 服务
+提供需求解决服务（兴趣圈子、爱好、学习）
+平台服务上希望提供多元供需信息服务，包括学习、爱好、兴趣、工作、及日常生活经验等信息服务。资源信息整合（不干预资源本身）
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+![](https://docs.asnowtree.cn/images/3/27/信息服务.png)
+
+平台提供的核心服务，本暂时以为可以是让网罗万象的人可以在本平台寻找发现不侵害他人利益的的想做的任何事。人可以带着需求来到这里并且获得需求的解决方案。也可以带着目的来到本平台寻找或发表一个信息，试图寻找志趣相投的人为爱好买单，或者他也不知道自己想干什么，只是无聊，本平台无论用户是那种情况，平台通过信息采集和科学计算试图让有目的或者无目的人找到一些乐趣或者事情去做。这应该是一件放松的事情
+
+抽象化
+![](https://docs.asnowtree.cn/images/4/32/抽象服务.drawio.png)
+### 切入点
+1.想找工作
+![](https://docs.asnowtree.cn/images/4/32/找工作服务.drawio.png)
+2.筑房需求
+（以上两点需求很大），对此平台可以提供1.1找工作信息发布服务 2.1建房信息发布服务
+
+![](https://docs.asnowtree.cn/images/4/32/筑房需求.drawio.png)
+
+
+### 多元内容多元方案
+有人想找工作，有人想玩游戏，也有人想学习遇到难题需要请教，或者有些美食信息需要被更多人知道
+想做的事情平台并不刻意编排，看用户个人爱好
+可以是学习、科学、软件、建筑、游戏、文章、漫画、兼职信息等信息，这输入个人需求范畴，平台不涉及干预内容爱好本身。
+![](https://docs.asnowtree.cn/images/3/27/分类标签.png)
+
+### 优化和领域生态
+有一定的用户与需求活动量之后，平台通过数据累积，可以优化方案，生产领域生态圈
+#### 方案优化
+![](https://docs.asnowtree.cn/images/4/32/智能方案评审.drawio.png)
+#### 领域生态
+![](https://docs.asnowtree.cn/images/4/32/领域生态优化建设.drawio.png)
+### 不干预内容累积评审
+平台只是提供交涉方变，不干预双发决策，但是用户之间的合作事件要被记录，因为，一个人如果合作10次会有信誉累计，信誉评级由对方来评。随着合作累积，人的信誉会有一个稳定值，对平台和用户有正向反馈和监督作用
+
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+#### 旅游
+如果有想去一个地方旅游但是没去过，可不可以通过本平台发布一些计划，让旅游地本地人看到这个需求并且本地人能够提供帮助，平台促成一次有计划的合作，让旅游的人对不熟悉的地方有所准备。
+
+
+### 信息可靠
+有一个问题是多元的内容要真实可靠，不然平台让人不敢信任、不能很好的维持
+
+### 树立标准，专家评审
+高级的标准，诚然有很多标准，但是生活的变化太快，需要一些标准去生活更丰富但也简单。
+是否在服务（建筑）上，有一个标准，不是垄断的，是大家都能接受的，并且是有专家提交发表相关确定观点。
+
+### 有所收获
+希望在本平台的用户做一些感兴趣的活动或者寻找自己的需求解决方案，并有所收获
+
+## 信誉累积
+人不能保证完全遵守规则，即使有错误平台没有记录，那平台会失去信誉，所以会对用户的活动结果评价，经过累积会有较好信誉环境
+
+## 活动事件记录
+
+## 安全稳定的通信
+p2p 对于信息有不错的加密保护作用
+
+## 意见箱
 ```
 
-```
-The final element.
-```
+
+
+Jun 上海雪树科技有限公司 | Shanghai Snow Tree Technology Co., Ltd.
