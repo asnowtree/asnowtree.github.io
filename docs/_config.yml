@@ -24,8 +24,8 @@ just_the_docs:
       name: posts
     tutorials:
       name: Tutorials
-    # docs:
-      # name: docs
+    docs:
+      name: docs
 defaults:
 - scope:
     path: _docs
