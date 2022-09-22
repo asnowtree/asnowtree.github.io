@@ -1,15 +1,13 @@
 ---
-version: 4.2.2
-name: Jekyll • Simple, blog-aware, static sites
-description: Transform your plain text into static websites and blogs
-url: https://jekyllrb.com
-repository: https://github.com/jekyll/jekyll
-timezone: America/Los_Angeles
+version: 0.1
+name: ASnowTree • 事件记录摘要-陈述
+description: 往往有一些事情被人们关注或者不关注，当一些事情被人们想了解时，希望此处有所帮助
+url: https://asnowtree.github.io
+repository: https://github.com/asnowtree/asnowtree.github.io
+timezone: Asia/Shanghai
 twitter:
-  username: jekyllrb
+  username: asnowtree
 logo: "/img/logo-tree.png"
-google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
-cloudinary_url: https://res.cloudinary.com/jekyll/image/upload/f_auto,q_auto,w_404
 collections:
   docs:
     permalink: "/:collection/:path/"
@@ -26,8 +24,8 @@ just_the_docs:
       name: posts
     tutorials:
       name: Tutorials
-    docs:
-      name: docs
+    # docs:
+      # name: docs
 defaults:
 - scope:
     path: _docs
@@ -47,7 +45,7 @@ defaults:
 - scope:
     path: ''
   values:
-    image: "/img/jekyll-og.png"
+    image: "/img/logo-tree.png"
 future: true
 plugins:
 - jekyll-avatar
