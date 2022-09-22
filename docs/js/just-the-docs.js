@@ -163,7 +163,7 @@ function searchLoaded(index, docs) {
         boost: 10
       });
       query.term(tokens, {
-        presence: lunr.Query.presence.REQUIRED ,
+        // presence: lunr.Query.presence.REQUIRED ,
         wildcard: lunr.Query.wildcard.TRAILING
       });
     });
