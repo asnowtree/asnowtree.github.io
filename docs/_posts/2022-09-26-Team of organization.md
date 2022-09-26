@@ -1,7 +1,7 @@
 ---
 title: 'Team of organization'
 date: 2022-09-26 20:37:00 +0800
-author: narule
+author: asnowtree
 categories: [issue]
 ---
 > 三个臭皮匠顶个诸葛亮
