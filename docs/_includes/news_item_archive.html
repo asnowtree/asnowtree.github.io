@@ -1,6 +1,6 @@
 <article>
   <div class="cell-left">
-    <span class="post-category">
+    <span class="post-category  {{ post.categories | array_to_sentence_string }}">
       <span class="label">
         {{- post.categories | array_to_sentence_string -}}
       </span>

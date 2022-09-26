@@ -1,0 +1,14 @@
+---
+layout: news
+title: Notes
+permalink: /things/notes/
+author: all
+---
+
+{% for post in site.categories.notes -%}
+  {% if forloop.index == 1 -%}
+    {% include news_item.html -%}
+  {% else -%}
+    {% include news_item_archive.html -%}
+  {% endif -%}
+{% endfor -%}

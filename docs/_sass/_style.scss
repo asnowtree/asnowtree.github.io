@@ -641,6 +641,31 @@ article h2:first-child { margin-top: 0; }
     width: 0;
     height: 0;
   }
+
+  &.notes {
+    background-color: #dab10d;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#dab10d), to(#a08107));
+    background-image: -webkit-linear-gradient(top, #dab10d 0%, #a08107 100%);
+    background-image: -moz-linear-gradient(top, #dab10d 0%, #a08107 100%);
+    background-image: -o-linear-gradient(top, #dab10d 0%, #a08107 100%);
+    background-image: linear-gradient(to bottom, #dab10d 0%,#a08107 100%);
+    &:before {
+      border-color: transparent #a08107 #a08107 transparent;
+    }
+  }
+
+  &.issue {
+    background-color: #0389aa;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#0389aa), to(#00617f));
+    background-image: -webkit-linear-gradient(top, #0389aa 0%, #00617f 100%);
+    background-image: -moz-linear-gradient(top, #0389aa 0%, #00617f 100%);
+    background-image: -o-linear-gradient(top, #0389aa 0%, #00617f 100%);
+    background-image: linear-gradient(to bottom, #0389aa 0%,#00617f 100%);
+
+    &:before {
+      border-color: transparent #00617f #00617f transparent;
+    }
+  }
 }
 
 .post-content img { max-width: 100% }
