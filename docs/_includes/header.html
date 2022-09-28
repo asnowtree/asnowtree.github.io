@@ -1,0 +1,64 @@
+<header>
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <script type="text/javascript" src="{{ '/js/just-the-docs.js' | relative_url }}"></script>
+  <script type="text/javascript" src="{{ '/js/vendor/lunr.js' | relative_url }}"></script>
+  <script type="text/javascript" src="{{ '/js/lunr.multi.js' | relative_url }}"></script>
+  <!-- <script type="text/javascript" src="{{ '/js/vendor/lunr.min.js' | relative_url }}"></script> -->
+  <script src="/js/lunr.stemmer.support.js"></script>
+  <script src="/js/lunr.zh.js"></script> <!-- or any other language you want -->
+  <div class="flexbox">
+    <div class="center-on-mobiles">
+      <h1>
+        <a href="{{ '/' | relative_url }}" class="logo">
+          <span class="sr-only">Jekyll</span>
+          <img src="{{ 'img/logo-tree.png' | relative_url }}" width="140" height="37" alt="Jekyll Logo">
+        </a>
+      </h1>
+    </div>
+    <nav class="main-nav hide-on-mobiles">
+      {% include primary-nav-items.html -%}
+    </nav>
+    <div class="search hide-on-mobiles">
+      <form novalidate="novalidate" onsubmit="return false;" class="searchbox">
+        <div role="search" class="searchbox__wrapper">
+          <span class="algolia-autocomplete algolia-autocomplete-right" style="position: relative; display: inline-block; direction: ltr;">
+            <input id="docsearch" type="search" name="search" placeholder="Search the docs" autocomplete="off" required="required" class="searchbox__input ds-input" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-label="search input" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;"><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: sans-serif; font-size: 15.75px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: normal; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre>
+            <span id="ds-dropdown-menu" class="ds-dropdown-menu" role="listbox" id="algolia-autocomplete-listbox-0" style="position: absolute; top: 100%; z-index: 100; left: 0px; right: auto; display: none;">
+              <div id="ds-dataset-1" class="ds-dataset-1"></div>
+            </span>
+          </span>
+          <button type="submit" title="Submit your search query." class="searchbox__submit">
+            <svg width="12" height="12" role="img" aria-label="Search">
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#sbx-icon-search-13"></use>
+            </svg>
+          </button>
+          <button type="reset" title="Clear the search query." class="searchbox__reset hide">
+            <svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg>
+          </button>
+        </div>
+    </form>
+    <div class="svg-icons" style="height: 0; width: 0; position: absolute; visibility: hidden">
+      <svg xmlns="http://www.w3.org/2000/svg">
+        <symbol id="sbx-icon-clear-3" viewBox="0 0 40 40"><path d="M16.228 20L1.886 5.657 0 3.772 3.772 0l1.885 1.886L20 16.228 34.343 1.886 36.228 0 40 3.772l-1.886 1.885L23.772 20l14.342 14.343L40 36.228 36.228 40l-1.885-1.886L20 23.772 5.657 38.114 3.772 40 0 36.228l1.886-1.885L16.228 20z" fill-rule="evenodd"></path></symbol>
+        <symbol id="sbx-icon-search-13" viewBox="0 0 40 40"><path d="M26.806 29.012a16.312 16.312 0 0 1-10.427 3.746C7.332 32.758 0 25.425 0 16.378 0 7.334 7.333 0 16.38 0c9.045 0 16.378 7.333 16.378 16.38 0 3.96-1.406 7.593-3.746 10.426L39.547 37.34c.607.608.61 1.59-.004 2.203a1.56 1.56 0 0 1-2.202.004L26.807 29.012zm-10.427.627c7.322 0 13.26-5.938 13.26-13.26 0-7.324-5.938-13.26-13.26-13.26-7.324 0-13.26 5.936-13.26 13.26 0 7.322 5.936 13.26 13.26 13.26z" fill-rule="evenodd"></path></symbol>
+      </svg>
+    </div>
+      <!-- {% include search/input.html -%} -->
+    </div>
+    <div class="meta hide-on-mobiles">
+      <ul>
+        <!-- <li><a href="{{ site.repository }}/releases/tag/v{{ site.version }}">v{{ site.version }}</a></li> -->
+        <li><a href="{{ site.repository }}">GitHub</a></li>
+      </ul>
+    </div>
+  </div>
+  <nav class="mobile-nav show-on-mobiles">
+    {% include mobile-nav-items.html -%}
+  </nav>
+</header>
