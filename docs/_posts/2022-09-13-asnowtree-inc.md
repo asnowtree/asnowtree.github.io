@@ -1,5 +1,5 @@
 ---
-title: '雪树科技'
+title: '雪树'
 date: 2022-09-22 20:12:00 +0800
 author: asnowtree
 version: 0.1
