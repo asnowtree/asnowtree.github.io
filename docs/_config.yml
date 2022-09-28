@@ -22,10 +22,6 @@ just_the_docs:
   collections:
     posts:
       name: posts
-    # tutorials:
-    #   name: Tutorials
-    # docs:
-    #   name: docs
 defaults:
 - scope:
     path: _docs
