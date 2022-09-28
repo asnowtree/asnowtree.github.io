@@ -65,420 +65,246 @@
     "url": "/things/issue/",
     "relUrl": "/things/issue/"
   },"11": {
-    "doc": "JekyllConf",
-    "title": "Featured",
-    "content": "Building our agency site with Jekyll - David Jones . ",
-    "url": "/jekyllconf/#featured",
-    "relUrl": "/jekyllconf/#featured"
-  },"12": {
-    "doc": "JekyllConf",
-    "title": "2019",
-    "content": ". | Jekyll As An API Endpoint - Pieter Roozen . | Why I love Jekyll Data Files - Chen Hui Jing . | The Lean Web - Chris Ferdinandi . | Jekyll For City Government - Catherine Roebuck . | Jekyll Codex - Jekyll for front-end developers - Joost van der Schee . | Leverage AWS S3 And CloudFront To Deploy Blazing Fast Jekyll Sites - Matthew Loberg . | Structuring Jekyll Sites For Enterprise Design Systems - George Phillips . | . ",
-    "url": "/jekyllconf/#2019",
-    "relUrl": "/jekyllconf/#2019"
-  },"13": {
-    "doc": "JekyllConf",
-    "title": "2016",
-    "content": ". | Elasticsearch for Jekyll - Allison Zadrozny . | Jekyll for Technical Documentation - Amy Johnston . | Real World Content Strategy with Jekyll - Bud Parr . | Building client-editable Jekyll sites - George Phillips . | Using Jekyll for Rapid CSS Testing - Ire Aderinokun . | Stack Overflow on Jekyll - Jon Chan . | Jekyll on AWS - Julio Faerman . | Unconventional use cases for Jekyll - Katy DeCorah . | Doing a lot with a little - David Darnes . | Designing fast websites with Jekyll - Ronan Berder . | Continuous deployment of Jekyll sites powered by Docker - David Von Lehman . | Building our agency site with Jekyll - David Jones . | Jekyll For Every Case - Scott Hewitt . | Algolia search on Jekyll sites - Tim Carry . | Building a living brand guide with Jekyll and Hologram - Nils Borchers . | Learning resources for the Jekyll community - Mike Neumegen . | Responsive srcset images with imgix - Oliver Pattison . | Jekyll, Your Website’s Baseplate - Michael Lee . | Deploy Jekyll Like A Boss - Paul Webb . | Overcoming challenges in using Jekyll for documentation projects - Tom Johnson . | . ",
-    "url": "/jekyllconf/#2016",
-    "relUrl": "/jekyllconf/#2016"
-  },"14": {
-    "doc": "JekyllConf",
-    "title": "2015",
-    "content": ". | GitHub Pages behind the scenes - Ben Balter . | What the heck is Octopress and why should I care? - Brandon Mathis . | Comparing Jekyll with the Competition - Brian Rinaldi . | Meet the Obama Campaign’s $250 Million Fundraising Platform - Kyle Rush . | Building Living Style Guides with Jekyll - Michael Jovel . | A CMS for Jekyll - Mike Neumegen . | Jekyll 3 and Beyond - Parker Moore . | Some crazy ideas I have for the future of static sites - Tom Preston-Werner . | . ",
-    "url": "/jekyllconf/#2015",
-    "relUrl": "/jekyllconf/#2015"
-  },"15": {
-    "doc": "JekyllConf",
-    "title": "JekyllConf",
-    "content": "JekyllConf is a free, online conference for all things Jekyll hosted by CloudCannon. Each year members of the Jekyll community speak about interesting use cases, tricks they’ve learned, or meta Jekyll topics. ",
-    "url": "/jekyllconf/",
-    "relUrl": "/jekyllconf/"
-  },"16": {
     "doc": "Things",
     "title": "\n    Team of organization\n  ",
     "content": "issue 26 September 2022 asnowtree 三个臭皮匠顶个诸葛亮 . 很多事情往往团队（多人合作）更容易完成，公开的负责的工程更是如此甚至必须； . ",
     "url": "/things/",
     "relUrl": "/things/"
-  },"17": {
+  },"12": {
     "doc": "Things",
     "title": "团队的需要",
     "content": "雪树科技致力通过1.软件技术为工具关键提供直接软件服务；及搭建2.一个需求服务平台提供多人项目协作辅助服务。 . 在1软件工具 2平台两点上都涉及涵盖多个领域的专业知识和技能，很难是一两个人能完成的简单工程，必需要多人合理分工合作、有序规划才能完成。 . 此处软件工程包含的分工有 . ",
     "url": "/things/#%E5%9B%A2%E9%98%9F%E7%9A%84%E9%9C%80%E8%A6%81",
     "relUrl": "/things/#团队的需要"
-  },"18": {
+  },"13": {
     "doc": "Things",
     "title": "美术、UI",
     "content": " ",
     "url": "/things/#%E7%BE%8E%E6%9C%AFui",
     "relUrl": "/things/#美术ui"
-  },"19": {
+  },"14": {
     "doc": "Things",
     "title": "前端工程",
     "content": " ",
     "url": "/things/#%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B",
     "relUrl": "/things/#前端工程"
-  },"20": {
+  },"15": {
     "doc": "Things",
     "title": "后端工程",
     "content": " ",
     "url": "/things/#%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B",
     "relUrl": "/things/#后端工程"
-  },"21": {
+  },"16": {
     "doc": "Things",
     "title": "架构",
     "content": " ",
     "url": "/things/#%E6%9E%B6%E6%9E%84",
     "relUrl": "/things/#架构"
-  },"22": {
+  },"17": {
     "doc": "Things",
     "title": "测试",
     "content": " ",
     "url": "/things/#%E6%B5%8B%E8%AF%95",
     "relUrl": "/things/#测试"
-  },"23": {
+  },"18": {
     "doc": "Things",
     "title": "产品",
     "content": "… . notes ",
     "url": "/things/#%E4%BA%A7%E5%93%81",
     "relUrl": "/things/#产品"
-  },"24": {
+  },"19": {
     "doc": "Things",
     "title": "\n        what touch me\n      ",
     "content": "26 September 2022 narule issue ",
     "url": "/things/",
     "relUrl": "/things/"
-  },"25": {
+  },"20": {
     "doc": "Things",
     "title": "\n        雪树\n      ",
     "content": "22 September 2022 asnowtree release ",
     "url": "/things/",
     "relUrl": "/things/"
-  },"26": {
+  },"21": {
     "doc": "Things",
     "title": "\n        雪树平台1.1 发布\n      ",
     "content": "28 August 2022 narule issue ",
     "url": "/things/",
     "relUrl": "/things/"
-  },"27": {
+  },"22": {
     "doc": "Things",
     "title": "\n        Platform business module\n      ",
     "content": "18 August 2022 narule ",
     "url": "/things/",
     "relUrl": "/things/"
-  },"28": {
+  },"23": {
     "doc": "Things",
     "title": "Things",
     "content": " ",
     "url": "/things/",
     "relUrl": "/things/"
-  },"29": {
+  },"24": {
     "doc": "Notes",
     "title": "\n    what touch me\n  ",
     "content": "notes 26 September 2022 narule 难过的时候，音乐、与朋友家人的互动聊天能让我能感觉我还是我自己，朋友与家人无需多说在交谈之间就有一些东西； . 音乐真是一个特别的东西，我有一个人并且提不起精神的时候，音乐能给我舒适欢快的感觉，它到力量 . 音乐在哪都可以单独拉出来作为一个专立板块，内容可以是音乐交流、创作、介绍推荐等… . 难过一种奇怪的情绪（最起码是带着莫名的无趣的心情，提不起兴趣，知道人应该要做点事情但是身体有些累） . ",
     "url": "/things/notes/",
     "relUrl": "/things/notes/"
-  },"30": {
+  },"25": {
     "doc": "Notes",
     "title": "Notes",
     "content": " ",
     "url": "/things/notes/",
     "relUrl": "/things/notes/"
-  },"31": {
-    "doc": "Philosophy",
-    "title": "1. No Magic",
-    "content": "Jekyll is not magic. A user should be able to understand the underlying processes that make up the Jekyll build without much reading. It should do only what you ask it to and nothing more. When a user takes a certain action, the outcome should be easily understandable and focused. ",
-    "url": "/philosophy/#1-no-magic",
-    "relUrl": "/philosophy/#1-no-magic"
-  },"32": {
-    "doc": "Philosophy",
-    "title": "2. It “Just Works”",
-    "content": "The out-of-the-box experience should be that it “just works.” Run gem install jekyll and it should build any Jekyll site that it’s given. Features like auto-regeneration and settings like the markdown renderer should represent sane defaults that work perfectly for the vast majority of cases. The burden of initial configuration should not be placed on the user. ",
-    "url": "/philosophy/#2-it-just-works",
-    "relUrl": "/philosophy/#2-it-just-works"
-  },"33": {
-    "doc": "Philosophy",
-    "title": "3. Content is King",
-    "content": "Why is Jekyll so loved by content creators? It focuses on content first and foremost, making the process of publishing content on the Web easy. Users should find the management of their content enjoyable and simple. ",
-    "url": "/philosophy/#3-content-is-king",
-    "relUrl": "/philosophy/#3-content-is-king"
-  },"34": {
-    "doc": "Philosophy",
-    "title": "4. Stability",
-    "content": "If a user’s site builds today, it should build tomorrow. Backwards-compatibility should be strongly preferred over breaking changes. Breaking changes should be made to support a strong practical goal, and breaking changes should never be made to drive forward “purity” of the codebase, or other changes purely to make the maintainers’ lives easier. Breaking changes provide a significant amount of friction between upgrades and reduce the confidence of users in this software, and should thus be avoided unless absolutely necessary. Upon breaking changes, provide a clear path for users to upgrade. ",
-    "url": "/philosophy/#4-stability",
-    "relUrl": "/philosophy/#4-stability"
-  },"35": {
-    "doc": "Philosophy",
-    "title": "5. Small &amp; Extensible",
-    "content": "The core of Jekyll should be simple and small, and extensibility should be a first-class feature to provide added functionality from community contributors. The core should be kept to features used by at least 90% of users–everything else should be provided as a plugin. New features should be shipped as plugins and focus should be put on creating extensible core API’s to support rich plugins. ",
-    "url": "/philosophy/#5-small--extensible",
-    "relUrl": "/philosophy/#5-small--extensible"
-  },"36": {
-    "doc": "Philosophy",
-    "title": "Philosophy",
-    "content": "Jekyll offers a unique philosophy when approaching the problem of static site generation. This core philosophy drives development and product decisions. When a contributor, maintainer, or user asks herself what Jekyll is about, the following principles should come to mind: . ",
-    "url": "/philosophy/",
-    "relUrl": "/philosophy/"
-  },"37": {
+  },"26": {
     "doc": "Releases",
     "title": "\n    雪树平台1.1 发布\n  ",
     "content": "release 28 August 2022 narule 8月28日发布雪树服务平台1.1 . asnowtree.cn . ",
     "url": "/things/releases/",
     "relUrl": "/things/releases/"
-  },"38": {
+  },"27": {
     "doc": "Releases",
     "title": "Releases",
     "content": " ",
     "url": "/things/releases/",
     "relUrl": "/things/releases/"
-  },"39": {
-    "doc": "Resources",
-    "title": "Themes",
-    "content": ". | GitHub.com #jekyll-theme repos | jamstackthemes.dev | jekyllthemes.org | jekyllthemes.io | . See also: docs/themes. ",
-    "url": "/resources/#themes",
-    "relUrl": "/resources/#themes"
-  },"40": {
-    "doc": "Resources",
-    "title": "Plugins",
-    "content": ". | jekyll-plugin topic on GitHub | Planet Jekyll | . ",
-    "url": "/resources/#plugins",
-    "relUrl": "/resources/#plugins"
-  },"41": {
-    "doc": "Resources",
-    "title": "Guides",
-    "content": ". | Community tutorials | Deploy Jekyll 4 on GitHub Pages | Deploy Jekyll on Vercel | Deploy Jekyll 4 on Netlify | CloudCannon Academy is a set of resources created by CloudCannon to help folks get up and running with Jekyll. They cover all skill levels, and even include some great video tutorials. | Jekyll Cheatsheet is a single-page resource for Jekyll filters, variables, and the like. | . ",
-    "url": "/resources/#guides",
-    "relUrl": "/resources/#guides"
-  },"42": {
-    "doc": "Resources",
-    "title": "Integrations",
-    "content": "Use a SaaS service as a backend for functionality on your Jekyll site . ",
-    "url": "/resources/#integrations",
-    "relUrl": "/resources/#integrations"
-  },"43": {
-    "doc": "Resources",
-    "title": "Comments",
-    "content": ". | Staticman: Add user-generated content to a Jekyll site (free and open source) | Talkyard: Embedded comments for Jekyll and others (free and open source, or hosted serverless) | . ",
-    "url": "/resources/#comments",
-    "relUrl": "/resources/#comments"
-  },"44": {
-    "doc": "Resources",
-    "title": "Content Management",
-    "content": ". | CloudCannon: The Cloud CMS for Jekyll | Contentful: Content infrastructure for digital teams | Forestry.io: A free Git-based responsive CMS, with content modeling and instant previews. | Netlify CMS: Open source content management for your Git workflow | Siteleaf: Built for developers, Loved by everyone | Kentico Kontent: A headless CMS with full control over content presentation | . ",
-    "url": "/resources/#content-management",
-    "relUrl": "/resources/#content-management"
-  },"45": {
-    "doc": "Resources",
-    "title": "E-commerce",
-    "content": ". | MemberSpace: Add memberships and paywall functionality to a Jekyll site | Snipcart: Add a shopping cart to a Jekyll site | . ",
-    "url": "/resources/#e-commerce",
-    "relUrl": "/resources/#e-commerce"
-  },"46": {
-    "doc": "Resources",
-    "title": "Forms",
-    "content": ". | Arengu | Getform | 99Inbound | Formcake | Formcarry | Formingo | FormKeep | Formspark | Formspree (open source) | formX | Simple Form | SmartForms | Typeform | . ",
-    "url": "/resources/#forms",
-    "relUrl": "/resources/#forms"
-  },"47": {
-    "doc": "Resources",
-    "title": "Search",
-    "content": ". | Algolia: Add a powerful instant search to your Jekyll site | Elastic Site Search: Another option for adding search to your Jekyll site, built on Elasticsearch | Bonsai Search: The easiest way to use Elasticsearch for your Jekyll site | CloudSh: Website search with a few lines of JavaScript | . ",
-    "url": "/resources/#search",
-    "relUrl": "/resources/#search"
-  },"48": {
-    "doc": "Resources",
-    "title": "Editors plugins",
-    "content": ". | Visual Studio Code has various jekyll related plugins and supports autocompletion for configuration file. | jekyll-atom: A collection of snippets and tools for Jekyll in Atom | markdown-writer: An Atom package for Jekyll. It can create new posts/drafts, manage tags/categories, insert link/images and add many useful key mappings. | sublime-jekyll: A Sublime Text package for Jekyll static sites. This package should help creating Jekyll sites and posts easier by providing access to key template tags and filters, as well as common completions and a current date/datetime command (for dating posts). You can install this package manually via GitHub, or via Package Control. | vim-jekyll: A vim plugin to generate new posts and run jekyll build all without leaving vim. | WordPress2Jekyll: A WordPress plugin that allows you to use WordPress as your editor and (automatically) export content in to Jekyll. WordPress2Jekyll attempts to marry these two systems together in order to make a site that can be easily managed from all devices. | . ",
-    "url": "/resources/#editors-plugins",
-    "relUrl": "/resources/#editors-plugins"
-  },"49": {
-    "doc": "Resources",
-    "title": "Posts",
-    "content": ". | How I’m using Jekyll in 2016 | Talkyard comments instructions for Jekyll | Static Comments with Jekyll &amp; Staticman | Adding Ajax pagination to Jekyll | ‘About this Website’, by Carter Allen . “Jekyll is everything that I ever wanted in a blogging engine. Really. It isn’t perfect, but what’s excellent about it is that if there’s something wrong, I know exactly how it works and how to fix it. It runs on the your machine only, and is essentially an added”build” step between you and the browser. I coded this entire site in TextMate using standard HTML5 and CSS3, and then at the end I added just a few little variables to the markup. Presto-chango, my site is built and I am at peace with the world.” . | A way to extend Jekyll without forking and modifying the Jekyll gem codebase and some portable Jekyll extensions that can be reused and shared. | Using your Rails layouts in Jekyll | . ",
-    "url": "/resources/#posts",
-    "relUrl": "/resources/#posts"
-  },"50": {
-    "doc": "Resources",
-    "title": "Forks",
-    "content": ". | Time to Visit Bridgetown | Creating a Faster Jekyll | . ",
-    "url": "/resources/#forks",
-    "relUrl": "/resources/#forks"
-  },"51": {
-    "doc": "Resources",
-    "title": "Resources",
-    "content": "Jekyll’s growing community produces wide variety of themes, plugins, tutorials and other resources that can be helpful. Below is a collection of links to some of the most popular Jekyll resources. ",
-    "url": "/resources/",
-    "relUrl": "/resources/"
-  },"52": {
-    "doc": "Showcase",
-    "title": "Showcase",
-    "content": "Jekyll powers many company websites, here a few nice ones: . | Ruby on Rails | Sketch | Spotify for Developers | frame.ai | Release Management Blog | Yeoman | Twitch Developer Documentation | Netflix Devices | UN World Statistics | TwitchCon | GitHub On Demand Training | Paris Call for Trust and Security in Cyberspace | French Government Digital Services | Isomer - Singapore Government Static Websites | Development Seed | 18F | IBM MobileFirst Foundation | Chain | CSS Reference | HTML Reference | Digital Democracy | MailTape | Lattice | Matt Grey | Probot | The Markdown Guide | Rehan Butt | Grantmaker Search | U.S. Web Design Standards | plainlanguage.gov | Login.gov | Sydney New Years Eve | italia.it | Lightburn | We are COLLINS | Passbolt Help | Art & About Sydney | Freedom of Information Act | Auth0 Blog | Mapwize | Bitcoin | Vidgrid | MvvmCross | KOTN | Vesterheim Norwegian-American Museum | CloudCannon | SiteLeaf | Tom Preston Werner Blog | | . ",
-    "url": "/showcase/",
-    "relUrl": "/showcase/"
-  },"53": {
-    "doc": "The Jekyll Team",
-    "title": "Core Team",
-    "content": "The Jekyll Core Team’s responsibility is to ensure the development and community around the Jekyll ecosystem thrive. | Ashwin (@ashmaroli) | Matt (@mattr-) | . ",
-    "url": "/team/#core-team",
-    "relUrl": "/team/#core-team"
-  },"54": {
-    "doc": "The Jekyll Team",
-    "title": "Security Team",
-    "content": "The Jekyll Security Team’s responsibility is to triage, validate, and patch security vulnerabilities reported to them. | Parker (@parkr) | Ashwin (@ashmaroli) | Matt (@mattr-) | . ",
-    "url": "/team/#security-team",
-    "relUrl": "/team/#security-team"
-  },"55": {
-    "doc": "The Jekyll Team",
-    "title": "Emeritus Core Team Members",
-    "content": "Emeritus Core Team Members were once members of Jekyll’s Core Team. | Alfred (@alfredxing) | Frank (@DirtyF) | Nick (@qrush) | Parker (@parkr) | Tom (@mojombo) | . ",
-    "url": "/team/#emeritus-core-team-members",
-    "relUrl": "/team/#emeritus-core-team-members"
-  },"56": {
-    "doc": "The Jekyll Team",
-    "title": "The Jekyll Team",
-    "content": " ",
-    "url": "/team/",
-    "relUrl": "/team/"
-  },"57": {
+  },"28": {
     "doc": "Team of organization",
     "title": "团队的需要",
     "content": "雪树科技致力通过1.软件技术为工具关键提供直接软件服务；及搭建2.一个需求服务平台提供多人项目协作辅助服务。 . 在1软件工具 2平台两点上都涉及涵盖多个领域的专业知识和技能，很难是一两个人能完成的简单工程，必需要多人合理分工合作、有序规划才能完成。 . 此处软件工程包含的分工有 . ",
     "url": "/things/2022/09/26/Team-of-organization/#%E5%9B%A2%E9%98%9F%E7%9A%84%E9%9C%80%E8%A6%81",
     "relUrl": "/things/2022/09/26/Team-of-organization/#团队的需要"
-  },"58": {
+  },"29": {
     "doc": "Team of organization",
     "title": "美术、UI",
     "content": " ",
     "url": "/things/2022/09/26/Team-of-organization/#%E7%BE%8E%E6%9C%AFui",
     "relUrl": "/things/2022/09/26/Team-of-organization/#美术ui"
-  },"59": {
+  },"30": {
     "doc": "Team of organization",
     "title": "前端工程",
     "content": " ",
     "url": "/things/2022/09/26/Team-of-organization/#%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B",
     "relUrl": "/things/2022/09/26/Team-of-organization/#前端工程"
-  },"60": {
+  },"31": {
     "doc": "Team of organization",
     "title": "后端工程",
     "content": " ",
     "url": "/things/2022/09/26/Team-of-organization/#%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B",
     "relUrl": "/things/2022/09/26/Team-of-organization/#后端工程"
-  },"61": {
+  },"32": {
     "doc": "Team of organization",
     "title": "架构",
     "content": " ",
     "url": "/things/2022/09/26/Team-of-organization/#%E6%9E%B6%E6%9E%84",
     "relUrl": "/things/2022/09/26/Team-of-organization/#架构"
-  },"62": {
+  },"33": {
     "doc": "Team of organization",
     "title": "测试",
     "content": " ",
     "url": "/things/2022/09/26/Team-of-organization/#%E6%B5%8B%E8%AF%95",
     "relUrl": "/things/2022/09/26/Team-of-organization/#测试"
-  },"63": {
+  },"34": {
     "doc": "Team of organization",
     "title": "产品",
     "content": "… . ",
     "url": "/things/2022/09/26/Team-of-organization/#%E4%BA%A7%E5%93%81",
     "relUrl": "/things/2022/09/26/Team-of-organization/#产品"
-  },"64": {
+  },"35": {
     "doc": "Team of organization",
     "title": "Team of organization",
     "content": "三个臭皮匠顶个诸葛亮 . 很多事情往往团队（多人合作）更容易完成，公开的负责的工程更是如此甚至必须； . ",
     "url": "/things/2022/09/26/Team-of-organization/",
     "relUrl": "/things/2022/09/26/Team-of-organization/"
-  },"65": {
+  },"36": {
     "doc": "what touch me",
     "title": "what touch me",
     "content": "难过的时候，音乐、与朋友家人的互动聊天能让我能感觉我还是我自己，朋友与家人无需多说在交谈之间就有一些东西； . 音乐真是一个特别的东西，我有一个人并且提不起精神的时候，音乐能给我舒适欢快的感觉，它到力量 . 音乐在哪都可以单独拉出来作为一个专立板块，内容可以是音乐交流、创作、介绍推荐等… . 难过一种奇怪的情绪（最起码是带着莫名的无趣的心情，提不起兴趣，知道人应该要做点事情但是身体有些累） . ",
     "url": "/things/2022/09/26/what-touch-me/",
     "relUrl": "/things/2022/09/26/what-touch-me/"
-  },"66": {
+  },"37": {
     "doc": "雪树",
     "title": "信息收集整理",
     "content": "软件技术普遍能做的是大量的各种领域的信息存储，这里为信息的收集整理提供帮助，作为一个公共的信息进出平台。 . 不同领域信息需要不同的梳理 . ",
     "url": "/things/2022/09/22/asnowtree-inc/#%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86%E6%95%B4%E7%90%86",
     "relUrl": "/things/2022/09/22/asnowtree-inc/#信息收集整理"
-  },"67": {
+  },"38": {
     "doc": "雪树",
     "title": "宠物（爱好）",
     "content": "所有与宠物的关联的咨询信息，（价格、购买、寄养、教学、品种、鉴别、粮食）都可以在本平台发布或者获取。 . ",
     "url": "/things/2022/09/22/asnowtree-inc/#%E5%AE%A0%E7%89%A9%E7%88%B1%E5%A5%BD",
     "relUrl": "/things/2022/09/22/asnowtree-inc/#宠物爱好"
-  },"68": {
+  },"39": {
     "doc": "雪树",
     "title": "车辆",
     "content": "同上所有车辆的信息经过收集整理，产出可视化信息（品牌、产地、价格、数量、特点、性价比、年份、使用年限、优点等大量数据归纳） . ",
     "url": "/things/2022/09/22/asnowtree-inc/#%E8%BD%A6%E8%BE%86",
     "relUrl": "/things/2022/09/22/asnowtree-inc/#车辆"
-  },"69": {
+  },"40": {
     "doc": "雪树",
     "title": "工作",
     "content": "（公司职位、行业要求、薪资、职位地点、工作时间段、工作圈相关的信息、猎头、公司高管）所有工作相关的信息 . ",
     "url": "/things/2022/09/22/asnowtree-inc/#%E5%B7%A5%E4%BD%9C",
     "relUrl": "/things/2022/09/22/asnowtree-inc/#工作"
-  },"70": {
+  },"41": {
     "doc": "雪树",
     "title": "建筑",
     "content": "建筑材料、设计、工程管理、工时管理、建筑设备租赁等咨询信息 . ",
     "url": "/things/2022/09/22/asnowtree-inc/#%E5%BB%BA%E7%AD%91",
     "relUrl": "/things/2022/09/22/asnowtree-inc/#建筑"
-  },"71": {
+  },"42": {
     "doc": "雪树",
     "title": "合作管理框架",
     "content": "协助多方合作的管理框架，它为保证合作有效率，合作事项顺利进行及进度可控。 . 很重要的一点是很多时候平台只是信息的搬运工，不是信息的源生产方。在一次信息咨询的服务上需要保证提供有价值信息的一方获取合理收益。 . 一般认为合作管理框架是记录用户同意公开的操作，用户发布信息在平台（提供信息），同时用户咨询信息（获取信息），信息在平台流动产生价值收益时， 如果流动信息是三个用户综合提供的，通过记录智能计算确认三方贡献比=&gt;收益比。 . ",
     "url": "/things/2022/09/22/asnowtree-inc/#%E5%90%88%E4%BD%9C%E7%AE%A1%E7%90%86%E6%A1%86%E6%9E%B6",
     "relUrl": "/things/2022/09/22/asnowtree-inc/#合作管理框架"
-  },"72": {
+  },"43": {
     "doc": "雪树",
     "title": "软件工具开发",
     "content": "雪树科技团队提供web端等软件工具开发服务。 . 框架首先是定义，我们通过软件开发出一个web平台工具来实现上述信息收集与合作管理功能，对框架实例化。团队可以通过用户具体需求具体分析，完成用户在软件方面的需求服务。 . 平台地址 . ",
     "url": "/things/2022/09/22/asnowtree-inc/#%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91",
     "relUrl": "/things/2022/09/22/asnowtree-inc/#软件工具开发"
-  },"73": {
+  },"44": {
     "doc": "雪树",
     "title": "雪树",
     "content": "雪树科技成立，它的意义在于通过软件技术为人提供服务。 . 服务点： . 1.信息收集整理 . 2.合作管理框架 . 3.软件工具开发 . ",
     "url": "/things/2022/09/22/asnowtree-inc/",
     "relUrl": "/things/2022/09/22/asnowtree-inc/"
-  },"74": {
+  },"45": {
     "doc": "雪树平台1.1 发布",
     "title": "雪树平台1.1 发布",
     "content": "8月28日发布雪树服务平台1.1 . asnowtree.cn . ",
     "url": "/things/2022/08/28/ASnowTree-Platform-Release/",
     "relUrl": "/things/2022/08/28/ASnowTree-Platform-Release/"
-  },"75": {
+  },"46": {
     "doc": "Platform business module",
     "title": "用户",
     "content": "个人基本信息、账号信息、信誉、特色技能、兴趣爱好 . ",
     "url": "/things/2022/08/18/Platform-business-module/#%E7%94%A8%E6%88%B7",
     "relUrl": "/things/2022/08/18/Platform-business-module/#用户"
-  },"76": {
+  },"47": {
     "doc": "Platform business module",
     "title": "信息收集整理",
     "content": " ",
     "url": "/things/2022/08/18/Platform-business-module/#%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86%E6%95%B4%E7%90%86",
     "relUrl": "/things/2022/08/18/Platform-business-module/#信息收集整理"
-  },"77": {
+  },"48": {
     "doc": "Platform business module",
     "title": "资源信息",
     "content": "用户公开的互动信息，收集整理、归类 . ",
     "url": "/things/2022/08/18/Platform-business-module/#%E8%B5%84%E6%BA%90%E4%BF%A1%E6%81%AF",
     "relUrl": "/things/2022/08/18/Platform-business-module/#资源信息"
-  },"78": {
+  },"49": {
     "doc": "Platform business module",
     "title": "需求",
     "content": "获取用户需要、委托，整理出直接需求、 . ",
     "url": "/things/2022/08/18/Platform-business-module/#%E9%9C%80%E6%B1%82",
     "relUrl": "/things/2022/08/18/Platform-business-module/#需求"
-  },"79": {
+  },"50": {
     "doc": "Platform business module",
     "title": "解决方案协议",
     "content": "包含智能计算的资源、人匹配解决用户需求委托，提供解决需求的方案； . 提供协作管理框架、协助管理资源，团队合作，协助按照方案步骤完成。 . ",
     "url": "/things/2022/08/18/Platform-business-module/#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E5%8D%8F%E8%AE%AE",
     "relUrl": "/things/2022/08/18/Platform-business-module/#解决方案协议"
-  },"80": {
+  },"51": {
     "doc": "Platform business module",
     "title": "Platform business module",
     "content": " ",
