@@ -14,7 +14,7 @@
         </a>
       </h2>
       <span class="post-date">
-        {{- post.date | date_to_string -}}
+        {{- post.date | date: "%m-%d-%Y" -}}
       </span>
       {% assign author = post.author -%}
       <a href="https://github.com/{{ author }}" class="post-author">
