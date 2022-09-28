@@ -62,9 +62,13 @@ function initSearch() {
     if (request.status >= 200 && request.status < 400) {
       var docs = JSON.parse(request.responseText);
       
+        // lunr.Index.load(docs);
       lunr.tokenizer.separator = /[\s/]+/
       
+      
+      
       var index = lunr(function(){
+        
         this.use(lunr.multiLanguage('en', 'zh'));
         this.ref('id');
         this.field('title', { boost: 200 });
@@ -80,8 +84,8 @@ function initSearch() {
             relUrl: docs[i].relUrl
           });
         }
-      });
 
+      });
       searchLoaded(index, docs);
     } else {
       console.log('Error loading ajax request. Request status:' + request.status);
@@ -144,7 +148,9 @@ function searchLoaded(index, docs) {
       });
       query.term(tokens, {
         // presence: lunr.Query.presence.REQUIRED ,
-        wildcard: lunr.Query.wildcard.TRAILING
+        // wildcard: lunr.Query.wildcard.TRAILING
+        
+        wildcard: lunr.Query.wildcard.LEADING | lunr.Query.wildcard.TRAILING //前后匹配
       });
     });
 
