@@ -11,16 +11,13 @@ categories: [issue]
 
 [修改 Hosts 解决 Github 访问失败马克](https://zhuanlan.zhihu.com/p/107334179)
 
-{: .note}
-DNS污染及解决
 
+## DNS污染及解决
 
 通过cmd 输入 `ping github.com` 甚至都没有ip显示，网络有文章说大部分情况是dns污染
 
-
 {: .note}
 解决方案
-
 
 ### 1 找到域名正确的IP 自定义域名ip映射关系 
 
