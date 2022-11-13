@@ -41,3 +41,5 @@ window 配置域名IP映射
 `ipconfig /flushdns`
 
 如果试了之后还是不行，可是重启电脑在尝试
+
+[github常用部分host内容（更新）](https://asnowtree.github.io/things/2022/11/13/DNS-host-github)
