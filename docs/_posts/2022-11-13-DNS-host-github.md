@@ -6,7 +6,7 @@ categories: [issue]
 ---
 
 
-{: .note}
+{: .note .info}
 ## host
 
 
