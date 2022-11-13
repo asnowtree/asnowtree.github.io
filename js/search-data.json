@@ -19,7 +19,7 @@
   },"3": {
     "doc": "Issue",
     "title": "2 配置映射",
-    "content": "window 配置域名IP映射 . 修改C盘 Windows\\System32\\drivers\\etc\\ 文件夹下面的host文件，添加 ip 和域名映射关系 . 140.82.114.4 github.com . 修改完保存之后， 运行cmd，输入命令 . ipconfig /flushdns . 如果试了之后还是不行，可是重启电脑在尝试 . github常用部分host内容（更新） . issue ",
+    "content": "window 配置域名IP映射 . 修改C盘 Windows\\System32\\drivers\\etc\\ 文件夹下面的host文件，添加 ip 和域名映射关系 . 140.82.114.4 github.com . 修改完保存之后， 运行cmd，输入命令 . ipconfig /flushdns . 如果试了之后还是不行，可是重启电脑再尝试 . github常用部分host内容（更新） . issue ",
     "url": "/things/issue/#2-%E9%85%8D%E7%BD%AE%E6%98%A0%E5%B0%84",
     "relUrl": "/things/issue/#2-配置映射"
   },"4": {
@@ -73,7 +73,7 @@
   },"12": {
     "doc": "Things",
     "title": "2 配置映射",
-    "content": "window 配置域名IP映射 . 修改C盘 Windows\\System32\\drivers\\etc\\ 文件夹下面的host文件，添加 ip 和域名映射关系 . 140.82.114.4 github.com . 修改完保存之后， 运行cmd，输入命令 . ipconfig /flushdns . 如果试了之后还是不行，可是重启电脑在尝试 . github常用部分host内容（更新） . issue ",
+    "content": "window 配置域名IP映射 . 修改C盘 Windows\\System32\\drivers\\etc\\ 文件夹下面的host文件，添加 ip 和域名映射关系 . 140.82.114.4 github.com . 修改完保存之后， 运行cmd，输入命令 . ipconfig /flushdns . 如果试了之后还是不行，可是重启电脑再尝试 . github常用部分host内容（更新） . issue ",
     "url": "/things/#2-%E9%85%8D%E7%BD%AE%E6%98%A0%E5%B0%84",
     "relUrl": "/things/#2-配置映射"
   },"13": {
@@ -169,7 +169,7 @@
   },"28": {
     "doc": "github访问超时缓慢问题",
     "title": "2 配置映射",
-    "content": "window 配置域名IP映射 . 修改C盘 Windows\\System32\\drivers\\etc\\ 文件夹下面的host文件，添加 ip 和域名映射关系 . 140.82.114.4 github.com . 修改完保存之后， 运行cmd，输入命令 . ipconfig /flushdns . 如果试了之后还是不行，可是重启电脑在尝试 . github常用部分host内容（更新） . ",
+    "content": "window 配置域名IP映射 . 修改C盘 Windows\\System32\\drivers\\etc\\ 文件夹下面的host文件，添加 ip 和域名映射关系 . 140.82.114.4 github.com . 修改完保存之后， 运行cmd，输入命令 . ipconfig /flushdns . 如果试了之后还是不行，可是重启电脑再尝试 . github常用部分host内容（更新） . ",
     "url": "/things/2022/11/13/github-access-problem/#2-%E9%85%8D%E7%BD%AE%E6%98%A0%E5%B0%84",
     "relUrl": "/things/2022/11/13/github-access-problem/#2-配置映射"
   },"29": {
