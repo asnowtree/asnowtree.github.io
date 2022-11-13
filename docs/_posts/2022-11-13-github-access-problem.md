@@ -11,7 +11,9 @@ categories: [issue]
 ## DNS污染及解决
 
 通过cmd 输入 `ping github.com` 甚至都没有ip显示，网络有文章说大部分情况是dns污染
+
 [如何解决 github 访问慢的问题](https://juejin.cn/post/6960482521788186660)
+
 [修改 Hosts 解决 Github 访问失败马克](https://zhuanlan.zhihu.com/p/107334179)
 
 {: .note}
