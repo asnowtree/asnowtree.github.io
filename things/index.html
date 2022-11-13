@@ -150,15 +150,17 @@
 
 <p class="note">解决方案</p>
 
-<p>1 找到域名正确的IP 自定义域名ip映射关系 
-<a href="https://mping.chinaz.com/github.com">域名网站监测工具</a>
-通过mping.chinaz.com 可以获取访问github.com域名成功的ip，从而获取域名正确的IP</p>
+<h3 id="1-找到域名正确的ip-自定义域名ip映射关系">1 找到域名正确的IP 自定义域名ip映射关系</h3>
+
+<p><a href="https://mping.chinaz.com/github.com">域名网站监测工具</a></p>
+
+<p>通过mping.chinaz.com 可以获取访问github.com域名成功的ip，从而获取域名正确的IP</p>
 
 <p>DNS是在我们访问域名的时候，经过路由器DNS解析服务器获取域名对应的IP，dns被污染或说明域名对应的ip是错的；
 系统设计之初可能也考虑到这个问题，我们可以直接告诉电脑github.com正确的IP，直接访问不经过不可靠的DNS解析服务器。</p>
 
-<p>2 配置映射</p>
-<h2 id="window-配置域名ip映射">window 配置域名IP映射</h2>
+<h3 id="2-配置映射">2 配置映射</h3>
+<p>window 配置域名IP映射</p>
 
 <p>修改C盘 Windows\System32\drivers\etc\ 文件夹下面的host文件，添加 ip 和域名映射关系</p>
 
