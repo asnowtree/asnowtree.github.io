@@ -117,6 +117,8 @@
     <option value="">Navigate the blog…</option>
     <option value="/things/">Home</option>
     <optgroup label="posts">
+      <option value="/things/2022/11/13/github-access-problem/">github网站访问问题</option>
+      <option value="/things/2022/11/13/DNS-host-github/">DNS-host-github</option>
       <option value="/things/2022/10/20/The-situation-in-the-West-may-escalate/">西方局势可能升级</option>
       <option value="/things/2022/09/29/just-do-it/">just do it</option>
       <option value="/things/2022/09/26/Team-of-organization/">Team of organization</option>
@@ -129,32 +131,82 @@
 </div>
 <div class="unit four-fifths"><article>
   <h2>
-    <a href="/things/2022/10/20/The-situation-in-the-West-may-escalate/">西方局势可能升级</a>
+    <a href="/things/2022/11/13/github-access-problem/">github网站访问问题</a>
   </h2>
-  <span class="post-category  things">
-    <span class="label">things</span>
+  <span class="post-category  issue">
+    <span class="label">issue</span>
   </span>
   <div class="post-meta">
-    <span class="post-date">20 October 2022</span>
+    <span class="post-date">13 November 2022</span>
     <a href="https://github.com/narule" class="post-author">
       <img class="avatar avatar-small" alt="narule" width="24" height="24" data-proofer-ignore="true" src="https://avatars2.githubusercontent.com/narule?v=3&s=24" srcset="https://avatars2.githubusercontent.com/narule?v=3&s=24 1x, https://avatars2.githubusercontent.com/narule?v=3&s=48 2x, https://avatars2.githubusercontent.com/narule?v=3&s=72 3x, https://avatars2.githubusercontent.com/narule?v=3&s=96 4x" /><span class="author-name">narule</span>
     </a>
   </div>
-  <div class="post-content"><h2 id="俄方在赫尔松市组织居民转移">俄方在赫尔松市组织居民转移</h2>
-<p>俄罗斯国防部19日通报称，俄军过去一天在多地对乌实施打击，同时在赫尔松市组织居民转移
-<a href="https://baijiahao.baidu.com/s?id=1747169537066701792&amp;wfr=spider&amp;for=pc">链接</a></p>
+  <div class="post-content"><p>主要解决在git拉取GitHub.com上面的代码的时候，出现 time out 连接超时，不能成功 pull push的情况</p>
 
-<h2 id="外交部再次提醒中国公民尽快从乌克兰撤离">外交部再次提醒中国公民尽快从乌克兰撤离</h2>
-<p>消息显示国内相关人员提醒在乌克兰的中国公民尽快撤离乌克兰
-<a href="http://news.hnr.cn/shxw/article/1/1582947171433115650">链接</a></p>
+<p class="info">DNS污染及解决</p>
 
-<p>当局形式可能正在升级</p>
+<p>通过cmd 输入 <code class="language-plaintext highlighter-rouge">ping github.com</code> 甚至都没有ip显示，网络有文章说大部分情况是dns污染</p>
 
-<p>西边升温，东边也可能升温，天干夜燥小心火烛</p>
+<p class="info">解决方案</p>
 
-<p>一场多人球赛，哪怕输我也可能支持；但是不会支持一场虚幻脱离现实的球赛。</p>
+<p>1 找到域名正确的IP 自定义域名ip映射关系 
+<a href="https://mping.chinaz.com/github.com">域名网站监测工具</a>
+通过mping.chinaz.com 可以获取访问github.com域名成功的ip，从而获取域名正确的IP</p>
 
+<p>DNS是在我们访问域名的时候，经过路由器DNS解析服务器获取域名对应的IP，dns被污染或说明域名对应的ip是错的；
+系统设计之初可能也考虑到这个问题，我们可以直接告诉电脑github.com正确的IP，直接访问不经过不可靠的DNS解析服务器。</p>
+
+<p>2 配置映射</p>
+<h2 id="window-配置域名ip映射">window 配置域名IP映射</h2>
+
+<p>修改C盘 Windows\System32\drivers\etc\ 文件夹下面的host文件，添加 ip 和域名映射关系</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>140.82.114.4 github.com
+
+</code></pre></div></div>
+
+<p>修改完保存之后， 运行cmd，输入命令
+<code class="language-plaintext highlighter-rouge">ipconfig /flushdns</code></p>
+
+<p>如果试了之后还是不行，可是重启电脑在尝试</p>
 </div>
+</article>
+<article>
+  <div class="cell-left">
+    <span class="post-category  issue">
+      <span class="label">issue</span>
+    </span>
+  </div>
+  <div class="cell-right">
+    <div class="post-meta">
+      <h2 class="post-title">
+        <a href="/things/2022/11/13/DNS-host-github/">DNS-host-github</a>
+      </h2>
+      <span class="post-date">13 November 2022</span>
+      <a href="https://github.com/narule" class="post-author">
+        <img class="avatar avatar-small" alt="narule" width="24" height="24" data-proofer-ignore="true" src="https://avatars2.githubusercontent.com/narule?v=3&s=24" srcset="https://avatars2.githubusercontent.com/narule?v=3&s=24 1x, https://avatars2.githubusercontent.com/narule?v=3&s=48 2x, https://avatars2.githubusercontent.com/narule?v=3&s=72 3x, https://avatars2.githubusercontent.com/narule?v=3&s=96 4x" /><span class="author-name">narule</span>
+      </a>
+    </div>
+  </div>
+</article>
+<article>
+  <div class="cell-left">
+    <span class="post-category  things">
+      <span class="label">things</span>
+    </span>
+  </div>
+  <div class="cell-right">
+    <div class="post-meta">
+      <h2 class="post-title">
+        <a href="/things/2022/10/20/The-situation-in-the-West-may-escalate/">西方局势可能升级</a>
+      </h2>
+      <span class="post-date">20 October 2022</span>
+      <a href="https://github.com/narule" class="post-author">
+        <img class="avatar avatar-small" alt="narule" width="24" height="24" data-proofer-ignore="true" src="https://avatars2.githubusercontent.com/narule?v=3&s=24" srcset="https://avatars2.githubusercontent.com/narule?v=3&s=24 1x, https://avatars2.githubusercontent.com/narule?v=3&s=48 2x, https://avatars2.githubusercontent.com/narule?v=3&s=72 3x, https://avatars2.githubusercontent.com/narule?v=3&s=96 4x" /><span class="author-name">narule</span>
+      </a>
+    </div>
+  </div>
 </article>
 <article>
   <div class="cell-left">
@@ -301,6 +353,12 @@
       <!-- </ul> -->
     </h4>
     <ul>
+      <li >
+        <a href="/things/2022/11/13/github-access-problem/">github网站访问问题</a>
+      </li>
+      <li >
+        <a href="/things/2022/11/13/DNS-host-github/">DNS-host-github</a>
+      </li>
       <li >
         <a href="/things/2022/09/26/Team-of-organization/">Team of organization</a>
       </li>

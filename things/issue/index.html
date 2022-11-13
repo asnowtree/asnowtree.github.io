@@ -117,6 +117,8 @@
     <option value="">Navigate the blog…</option>
     <option value="/things/">Home</option>
     <optgroup label="posts">
+      <option value="/things/2022/11/13/github-access-problem/">github网站访问问题</option>
+      <option value="/things/2022/11/13/DNS-host-github/">DNS-host-github</option>
       <option value="/things/2022/10/20/The-situation-in-the-West-may-escalate/">西方局势可能升级</option>
       <option value="/things/2022/09/29/just-do-it/">just do it</option>
       <option value="/things/2022/09/26/Team-of-organization/">Team of organization</option>
@@ -129,43 +131,82 @@
 </div>
 <div class="unit four-fifths"><article>
   <h2>
-    <a href="/things/2022/09/26/Team-of-organization/">Team of organization</a>
+    <a href="/things/2022/11/13/github-access-problem/">github网站访问问题</a>
   </h2>
   <span class="post-category  issue">
     <span class="label">issue</span>
   </span>
   <div class="post-meta">
-    <span class="post-date">26 September 2022</span>
-    <a href="https://github.com/asnowtree" class="post-author">
-      <img class="avatar avatar-small" alt="asnowtree" width="24" height="24" data-proofer-ignore="true" src="https://avatars3.githubusercontent.com/asnowtree?v=3&s=24" srcset="https://avatars3.githubusercontent.com/asnowtree?v=3&s=24 1x, https://avatars3.githubusercontent.com/asnowtree?v=3&s=48 2x, https://avatars3.githubusercontent.com/asnowtree?v=3&s=72 3x, https://avatars3.githubusercontent.com/asnowtree?v=3&s=96 4x" /><span class="author-name">asnowtree</span>
+    <span class="post-date">13 November 2022</span>
+    <a href="https://github.com/narule" class="post-author">
+      <img class="avatar avatar-small" alt="narule" width="24" height="24" data-proofer-ignore="true" src="https://avatars2.githubusercontent.com/narule?v=3&s=24" srcset="https://avatars2.githubusercontent.com/narule?v=3&s=24 1x, https://avatars2.githubusercontent.com/narule?v=3&s=48 2x, https://avatars2.githubusercontent.com/narule?v=3&s=72 3x, https://avatars2.githubusercontent.com/narule?v=3&s=96 4x" /><span class="author-name">narule</span>
     </a>
   </div>
-  <div class="post-content"><blockquote>
-  <p>三个臭皮匠顶个诸葛亮</p>
-</blockquote>
+  <div class="post-content"><p>主要解决在git拉取GitHub.com上面的代码的时候，出现 time out 连接超时，不能成功 pull push的情况</p>
 
-<p>很多事情往往团队（多人合作）更容易完成，公开的负责的工程更是如此甚至必须；</p>
+<p class="info">DNS污染及解决</p>
 
-<h2 id="团队的需要">团队的需要</h2>
-<p>雪树科技致力通过1.软件技术为工具关键提供直接软件服务；及搭建2.一个需求服务平台提供多人项目协作辅助服务。</p>
+<p>通过cmd 输入 <code class="language-plaintext highlighter-rouge">ping github.com</code> 甚至都没有ip显示，网络有文章说大部分情况是dns污染</p>
 
-<p class="note">在1软件工具 2平台两点上都涉及涵盖多个领域的专业知识和技能，很难是一两个人能完成的简单工程，必需要多人合理分工合作、有序规划才能完成。</p>
+<p class="info">解决方案</p>
 
-<p>此处软件工程包含的分工有</p>
+<p>1 找到域名正确的IP 自定义域名ip映射关系 
+<a href="https://mping.chinaz.com/github.com">域名网站监测工具</a>
+通过mping.chinaz.com 可以获取访问github.com域名成功的ip，从而获取域名正确的IP</p>
 
-<h3 id="美术ui">美术、UI</h3>
+<p>DNS是在我们访问域名的时候，经过路由器DNS解析服务器获取域名对应的IP，dns被污染或说明域名对应的ip是错的；
+系统设计之初可能也考虑到这个问题，我们可以直接告诉电脑github.com正确的IP，直接访问不经过不可靠的DNS解析服务器。</p>
 
-<h3 id="前端工程">前端工程</h3>
+<p>2 配置映射</p>
+<h2 id="window-配置域名ip映射">window 配置域名IP映射</h2>
 
-<h3 id="后端工程">后端工程</h3>
+<p>修改C盘 Windows\System32\drivers\etc\ 文件夹下面的host文件，添加 ip 和域名映射关系</p>
 
-<h3 id="架构">架构</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>140.82.114.4 github.com
 
-<h3 id="测试">测试</h3>
+</code></pre></div></div>
 
-<h3 id="产品">产品</h3>
-<p>…</p>
+<p>修改完保存之后， 运行cmd，输入命令
+<code class="language-plaintext highlighter-rouge">ipconfig /flushdns</code></p>
+
+<p>如果试了之后还是不行，可是重启电脑在尝试</p>
 </div>
+</article>
+<article>
+  <div class="cell-left">
+    <span class="post-category  issue">
+      <span class="label">issue</span>
+    </span>
+  </div>
+  <div class="cell-right">
+    <div class="post-meta">
+      <h2 class="post-title">
+        <a href="/things/2022/11/13/DNS-host-github/">DNS-host-github</a>
+      </h2>
+      <span class="post-date">13 November 2022</span>
+      <a href="https://github.com/narule" class="post-author">
+        <img class="avatar avatar-small" alt="narule" width="24" height="24" data-proofer-ignore="true" src="https://avatars2.githubusercontent.com/narule?v=3&s=24" srcset="https://avatars2.githubusercontent.com/narule?v=3&s=24 1x, https://avatars2.githubusercontent.com/narule?v=3&s=48 2x, https://avatars2.githubusercontent.com/narule?v=3&s=72 3x, https://avatars2.githubusercontent.com/narule?v=3&s=96 4x" /><span class="author-name">narule</span>
+      </a>
+    </div>
+  </div>
+</article>
+<article>
+  <div class="cell-left">
+    <span class="post-category  issue">
+      <span class="label">issue</span>
+    </span>
+  </div>
+  <div class="cell-right">
+    <div class="post-meta">
+      <h2 class="post-title">
+        <a href="/things/2022/09/26/Team-of-organization/">Team of organization</a>
+      </h2>
+      <span class="post-date">26 September 2022</span>
+      <a href="https://github.com/asnowtree" class="post-author">
+        <img class="avatar avatar-small" alt="asnowtree" width="24" height="24" data-proofer-ignore="true" src="https://avatars3.githubusercontent.com/asnowtree?v=3&s=24" srcset="https://avatars3.githubusercontent.com/asnowtree?v=3&s=24 1x, https://avatars3.githubusercontent.com/asnowtree?v=3&s=48 2x, https://avatars3.githubusercontent.com/asnowtree?v=3&s=72 3x, https://avatars3.githubusercontent.com/asnowtree?v=3&s=96 4x" /><span class="author-name">asnowtree</span>
+      </a>
+    </div>
+  </div>
 </article>
 <article>
   <div class="cell-left">
@@ -240,6 +281,12 @@
       <!-- </ul> -->
     </h4>
     <ul>
+      <li >
+        <a href="/things/2022/11/13/github-access-problem/">github网站访问问题</a>
+      </li>
+      <li >
+        <a href="/things/2022/11/13/DNS-host-github/">DNS-host-github</a>
+      </li>
       <li >
         <a href="/things/2022/09/26/Team-of-organization/">Team of organization</a>
       </li>
