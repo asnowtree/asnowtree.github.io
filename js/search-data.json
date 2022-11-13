@@ -12,317 +12,341 @@
     "relUrl": "/things/issue/#window-配置域名ip映射"
   },"2": {
     "doc": "Issue",
+    "title": "\n        DNS-host-github\n      ",
+    "content": "13 November 2022 narule issue ",
+    "url": "/things/issue/",
+    "relUrl": "/things/issue/"
+  },"3": {
+    "doc": "Issue",
     "title": "\n        Team of organization\n      ",
     "content": "26 September 2022 asnowtree issue ",
     "url": "/things/issue/",
     "relUrl": "/things/issue/"
-  },"3": {
+  },"4": {
     "doc": "Issue",
     "title": "\n        雪树\n      ",
     "content": "22 September 2022 asnowtree issue ",
     "url": "/things/issue/",
     "relUrl": "/things/issue/"
-  },"4": {
+  },"5": {
     "doc": "Issue",
     "title": "\n        Platform business module\n      ",
     "content": "18 August 2022 narule ",
     "url": "/things/issue/",
     "relUrl": "/things/issue/"
-  },"5": {
+  },"6": {
     "doc": "Issue",
     "title": "Issue",
     "content": " ",
     "url": "/things/issue/",
     "relUrl": "/things/issue/"
-  },"6": {
+  },"7": {
     "doc": "Things",
     "title": "\n    github网站访问问题\n  ",
     "content": "issue 13 November 2022 narule 主要解决在git拉取GitHub.com上面的代码的时候，出现 time out 连接超时，不能成功 pull push的情况 . DNS污染及解决 . 通过cmd 输入 ping github.com 甚至都没有ip显示，网络有文章说大部分情况是dns污染 . 解决方案 . 1 找到域名正确的IP 自定义域名ip映射关系 域名网站监测工具 通过mping.chinaz.com 可以获取访问github.com域名成功的ip，从而获取域名正确的IP . DNS是在我们访问域名的时候，经过路由器DNS解析服务器获取域名对应的IP，dns被污染或说明域名对应的ip是错的； 系统设计之初可能也考虑到这个问题，我们可以直接告诉电脑github.com正确的IP，直接访问不经过不可靠的DNS解析服务器。 . 2 配置映射 . ",
     "url": "/things/",
     "relUrl": "/things/"
-  },"7": {
+  },"8": {
     "doc": "Things",
     "title": "window 配置域名IP映射",
-    "content": "修改C盘 Windows\\System32\\drivers\\etc\\ 文件夹下面的host文件，添加 ip 和域名映射关系 . 140.82.114.4 github.com . 修改完保存之后， 运行cmd，输入命令 ipconfig /flushdns . 如果试了之后还是不行，可是重启电脑在尝试 . things ",
+    "content": "修改C盘 Windows\\System32\\drivers\\etc\\ 文件夹下面的host文件，添加 ip 和域名映射关系 . 140.82.114.4 github.com . 修改完保存之后， 运行cmd，输入命令 ipconfig /flushdns . 如果试了之后还是不行，可是重启电脑在尝试 . issue ",
     "url": "/things/#window-%E9%85%8D%E7%BD%AE%E5%9F%9F%E5%90%8Dip%E6%98%A0%E5%B0%84",
     "relUrl": "/things/#window-配置域名ip映射"
-  },"8": {
+  },"9": {
+    "doc": "Things",
+    "title": "\n        DNS-host-github\n      ",
+    "content": "13 November 2022 narule things ",
+    "url": "/things/",
+    "relUrl": "/things/"
+  },"10": {
     "doc": "Things",
     "title": "\n        西方局势可能升级\n      ",
     "content": "20 October 2022 narule foryou ",
     "url": "/things/",
     "relUrl": "/things/"
-  },"9": {
+  },"11": {
     "doc": "Things",
     "title": "\n        just do it\n      ",
     "content": "29 September 2022 narule issue ",
     "url": "/things/",
     "relUrl": "/things/"
-  },"10": {
+  },"12": {
     "doc": "Things",
     "title": "\n        Team of organization\n      ",
     "content": "26 September 2022 asnowtree notes ",
     "url": "/things/",
     "relUrl": "/things/"
-  },"11": {
+  },"13": {
     "doc": "Things",
     "title": "\n        what touch me\n      ",
     "content": "26 September 2022 narule issue ",
     "url": "/things/",
     "relUrl": "/things/"
-  },"12": {
+  },"14": {
     "doc": "Things",
     "title": "\n        雪树\n      ",
     "content": "22 September 2022 asnowtree release ",
     "url": "/things/",
     "relUrl": "/things/"
-  },"13": {
+  },"15": {
     "doc": "Things",
     "title": "\n        雪树平台1.1 发布\n      ",
     "content": "28 August 2022 narule issue ",
     "url": "/things/",
     "relUrl": "/things/"
-  },"14": {
+  },"16": {
     "doc": "Things",
     "title": "\n        Platform business module\n      ",
     "content": "18 August 2022 narule ",
     "url": "/things/",
     "relUrl": "/things/"
-  },"15": {
+  },"17": {
     "doc": "Things",
     "title": "Things",
     "content": " ",
     "url": "/things/",
     "relUrl": "/things/"
-  },"16": {
+  },"18": {
     "doc": "Notes",
     "title": "\n    what touch me\n  ",
     "content": "notes 26 September 2022 narule 难过的时候，音乐、与朋友家人的互动聊天能让我能感觉我还是我自己，朋友与家人无需多说在交谈之间就有一些东西； . 音乐真是一个特别的东西，我有一个人并且提不起精神的时候，音乐能给我舒适欢快的感觉，它到力量 . 音乐在哪都可以单独拉出来作为一个专立板块，内容可以是音乐交流、创作、介绍推荐等… . 难过一种奇怪的情绪（最起码是带着莫名的无趣的心情，提不起兴趣，知道人应该要做点事情但是身体有些累） . ",
     "url": "/things/notes/",
     "relUrl": "/things/notes/"
-  },"17": {
+  },"19": {
     "doc": "Notes",
     "title": "Notes",
     "content": " ",
     "url": "/things/notes/",
     "relUrl": "/things/notes/"
-  },"18": {
+  },"20": {
     "doc": "Releases",
     "title": "\n    雪树平台1.1 发布\n  ",
     "content": "release 28 August 2022 narule 8月28日发布雪树服务平台1.1 . asnowtree.cn . ",
     "url": "/things/releases/",
     "relUrl": "/things/releases/"
-  },"19": {
+  },"21": {
     "doc": "Releases",
     "title": "Releases",
     "content": " ",
     "url": "/things/releases/",
     "relUrl": "/things/releases/"
-  },"20": {
+  },"22": {
     "doc": "github网站访问问题",
     "title": "window 配置域名IP映射",
     "content": "修改C盘 Windows\\System32\\drivers\\etc\\ 文件夹下面的host文件，添加 ip 和域名映射关系 . 140.82.114.4 github.com . 修改完保存之后， 运行cmd，输入命令 ipconfig /flushdns . 如果试了之后还是不行，可是重启电脑在尝试 . ",
     "url": "/things/2022/11/13/github-access-problem/#window-%E9%85%8D%E7%BD%AE%E5%9F%9F%E5%90%8Dip%E6%98%A0%E5%B0%84",
     "relUrl": "/things/2022/11/13/github-access-problem/#window-配置域名ip映射"
-  },"21": {
+  },"23": {
     "doc": "github网站访问问题",
     "title": "github网站访问问题",
     "content": "主要解决在git拉取GitHub.com上面的代码的时候，出现 time out 连接超时，不能成功 pull push的情况 . DNS污染及解决 . 通过cmd 输入 ping github.com 甚至都没有ip显示，网络有文章说大部分情况是dns污染 . 解决方案 . 1 找到域名正确的IP 自定义域名ip映射关系 域名网站监测工具 通过mping.chinaz.com 可以获取访问github.com域名成功的ip，从而获取域名正确的IP . DNS是在我们访问域名的时候，经过路由器DNS解析服务器获取域名对应的IP，dns被污染或说明域名对应的ip是错的； 系统设计之初可能也考虑到这个问题，我们可以直接告诉电脑github.com正确的IP，直接访问不经过不可靠的DNS解析服务器。 . 2 配置映射 . ",
     "url": "/things/2022/11/13/github-access-problem/",
     "relUrl": "/things/2022/11/13/github-access-problem/"
-  },"22": {
+  },"24": {
+    "doc": "DNS-host-github",
+    "title": "host",
+    "content": "140.82.113.4 github.com 140.82.121.4 github.com 140.82.121.34 maven.pkg.github.com 140.82.113.34 pkg.github.com . ",
+    "url": "/things/2022/11/13/DNS-host-github/#host",
+    "relUrl": "/things/2022/11/13/DNS-host-github/#host"
+  },"25": {
+    "doc": "DNS-host-github",
+    "title": "DNS-host-github",
+    "content": " ",
+    "url": "/things/2022/11/13/DNS-host-github/",
+    "relUrl": "/things/2022/11/13/DNS-host-github/"
+  },"26": {
     "doc": "西方局势可能升级",
     "title": "俄方在赫尔松市组织居民转移",
     "content": "俄罗斯国防部19日通报称，俄军过去一天在多地对乌实施打击，同时在赫尔松市组织居民转移 链接 . ",
     "url": "/things/2022/10/20/The-situation-in-the-West-may-escalate/#%E4%BF%84%E6%96%B9%E5%9C%A8%E8%B5%AB%E5%B0%94%E6%9D%BE%E5%B8%82%E7%BB%84%E7%BB%87%E5%B1%85%E6%B0%91%E8%BD%AC%E7%A7%BB",
     "relUrl": "/things/2022/10/20/The-situation-in-the-West-may-escalate/#俄方在赫尔松市组织居民转移"
-  },"23": {
+  },"27": {
     "doc": "西方局势可能升级",
     "title": "外交部再次提醒中国公民尽快从乌克兰撤离",
     "content": "消息显示国内相关人员提醒在乌克兰的中国公民尽快撤离乌克兰 链接 . 当局形式可能正在升级 . 西边升温，东边也可能升温，天干夜燥小心火烛 . 一场多人球赛，哪怕输我也可能支持；但是不会支持一场虚幻脱离现实的球赛。 . ",
     "url": "/things/2022/10/20/The-situation-in-the-West-may-escalate/#%E5%A4%96%E4%BA%A4%E9%83%A8%E5%86%8D%E6%AC%A1%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E4%BB%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E6%92%A4%E7%A6%BB",
     "relUrl": "/things/2022/10/20/The-situation-in-the-West-may-escalate/#外交部再次提醒中国公民尽快从乌克兰撤离"
-  },"24": {
+  },"28": {
     "doc": "西方局势可能升级",
     "title": "西方局势可能升级",
     "content": " ",
     "url": "/things/2022/10/20/The-situation-in-the-West-may-escalate/",
     "relUrl": "/things/2022/10/20/The-situation-in-the-West-may-escalate/"
-  },"25": {
+  },"29": {
     "doc": "just do it",
     "title": "爱生活",
     "content": "有很多趣的，好吃的… 事物 . ",
     "url": "/things/2022/09/29/just-do-it/#%E7%88%B1%E7%94%9F%E6%B4%BB",
     "relUrl": "/things/2022/09/29/just-do-it/#爱生活"
-  },"26": {
+  },"30": {
     "doc": "just do it",
     "title": "明因果",
     "content": "因果是成对存在的，事情都有因果，如熵不可逆。 . 一碗清水，想加点味，可以选择加糖或是加盐，在做出选择加什么料（因）的那一刻味道（果）已经确定了。 . 加糖你知道是甜，加盐你知道是咸，那如果再加10种调料你可能就不知道了，但10种调料加进去的时候味道就已经确定了，你不知道只是因为复杂了看不清，客观上的味道（果）是确定的，改变不了。 . 映射在复杂的生活中简单的事有因果，复杂的事也是因果有关。 . ",
     "url": "/things/2022/09/29/just-do-it/#%E6%98%8E%E5%9B%A0%E6%9E%9C",
     "relUrl": "/things/2022/09/29/just-do-it/#明因果"
-  },"27": {
+  },"31": {
     "doc": "just do it",
     "title": "做想做的",
     "content": "人都有自己的喜好,做自己喜欢的事。 . ",
     "url": "/things/2022/09/29/just-do-it/#%E5%81%9A%E6%83%B3%E5%81%9A%E7%9A%84",
     "relUrl": "/things/2022/09/29/just-do-it/#做想做的"
-  },"28": {
+  },"32": {
     "doc": "just do it",
     "title": "认清自己",
     "content": "更好的调整自己继续前进 . 清楚自己有能力做什么，做不到什么，不做能力之外的事情。特别是在多人合作做事情的时候不耽误事，明白什么是渺小，更懂多元与团队合作的重要 . ",
     "url": "/things/2022/09/29/just-do-it/#%E8%AE%A4%E6%B8%85%E8%87%AA%E5%B7%B1",
     "relUrl": "/things/2022/09/29/just-do-it/#认清自己"
-  },"29": {
+  },"33": {
     "doc": "just do it",
     "title": "勇敢面对现实，",
     "content": "明白因果 认清自己，勇敢面对自己的所有，包括选择。 保持好心态 . ",
     "url": "/things/2022/09/29/just-do-it/#%E5%8B%87%E6%95%A2%E9%9D%A2%E5%AF%B9%E7%8E%B0%E5%AE%9E",
     "relUrl": "/things/2022/09/29/just-do-it/#勇敢面对现实"
-  },"30": {
+  },"34": {
     "doc": "just do it",
     "title": "just do it",
     "content": "你可以 . ",
     "url": "/things/2022/09/29/just-do-it/",
     "relUrl": "/things/2022/09/29/just-do-it/"
-  },"31": {
+  },"35": {
     "doc": "Team of organization",
     "title": "团队的需要",
     "content": "雪树科技致力通过1.软件技术为工具关键提供直接软件服务；及搭建2.一个需求服务平台提供多人项目协作辅助服务。 . 在1软件工具 2平台两点上都涉及涵盖多个领域的专业知识和技能，很难是一两个人能完成的简单工程，必需要多人合理分工合作、有序规划才能完成。 . 此处软件工程包含的分工有 . ",
     "url": "/things/2022/09/26/Team-of-organization/#%E5%9B%A2%E9%98%9F%E7%9A%84%E9%9C%80%E8%A6%81",
     "relUrl": "/things/2022/09/26/Team-of-organization/#团队的需要"
-  },"32": {
+  },"36": {
     "doc": "Team of organization",
     "title": "美术、UI",
     "content": " ",
     "url": "/things/2022/09/26/Team-of-organization/#%E7%BE%8E%E6%9C%AFui",
     "relUrl": "/things/2022/09/26/Team-of-organization/#美术ui"
-  },"33": {
+  },"37": {
     "doc": "Team of organization",
     "title": "前端工程",
     "content": " ",
     "url": "/things/2022/09/26/Team-of-organization/#%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B",
     "relUrl": "/things/2022/09/26/Team-of-organization/#前端工程"
-  },"34": {
+  },"38": {
     "doc": "Team of organization",
     "title": "后端工程",
     "content": " ",
     "url": "/things/2022/09/26/Team-of-organization/#%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B",
     "relUrl": "/things/2022/09/26/Team-of-organization/#后端工程"
-  },"35": {
+  },"39": {
     "doc": "Team of organization",
     "title": "架构",
     "content": " ",
     "url": "/things/2022/09/26/Team-of-organization/#%E6%9E%B6%E6%9E%84",
     "relUrl": "/things/2022/09/26/Team-of-organization/#架构"
-  },"36": {
+  },"40": {
     "doc": "Team of organization",
     "title": "测试",
     "content": " ",
     "url": "/things/2022/09/26/Team-of-organization/#%E6%B5%8B%E8%AF%95",
     "relUrl": "/things/2022/09/26/Team-of-organization/#测试"
-  },"37": {
+  },"41": {
     "doc": "Team of organization",
     "title": "产品",
     "content": "… . ",
     "url": "/things/2022/09/26/Team-of-organization/#%E4%BA%A7%E5%93%81",
     "relUrl": "/things/2022/09/26/Team-of-organization/#产品"
-  },"38": {
+  },"42": {
     "doc": "Team of organization",
     "title": "Team of organization",
     "content": "三个臭皮匠顶个诸葛亮 . 很多事情往往团队（多人合作）更容易完成，公开的负责的工程更是如此甚至必须； . ",
     "url": "/things/2022/09/26/Team-of-organization/",
     "relUrl": "/things/2022/09/26/Team-of-organization/"
-  },"39": {
+  },"43": {
     "doc": "what touch me",
     "title": "what touch me",
     "content": "难过的时候，音乐、与朋友家人的互动聊天能让我能感觉我还是我自己，朋友与家人无需多说在交谈之间就有一些东西； . 音乐真是一个特别的东西，我有一个人并且提不起精神的时候，音乐能给我舒适欢快的感觉，它到力量 . 音乐在哪都可以单独拉出来作为一个专立板块，内容可以是音乐交流、创作、介绍推荐等… . 难过一种奇怪的情绪（最起码是带着莫名的无趣的心情，提不起兴趣，知道人应该要做点事情但是身体有些累） . ",
     "url": "/things/2022/09/26/what-touch-me/",
     "relUrl": "/things/2022/09/26/what-touch-me/"
-  },"40": {
+  },"44": {
     "doc": "雪树",
     "title": "信息收集整理",
     "content": "软件技术普遍能做的是大量的各种领域的信息存储，这里为信息的收集整理提供帮助，作为一个公共的信息进出平台。 . 不同领域信息需要不同的梳理 . ",
     "url": "/things/2022/09/22/asnowtree-inc/#%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86%E6%95%B4%E7%90%86",
     "relUrl": "/things/2022/09/22/asnowtree-inc/#信息收集整理"
-  },"41": {
+  },"45": {
     "doc": "雪树",
     "title": "宠物（爱好）",
     "content": "所有与宠物的关联的咨询信息，（价格、购买、寄养、教学、品种、鉴别、粮食）都可以在本平台发布或者获取。 . ",
     "url": "/things/2022/09/22/asnowtree-inc/#%E5%AE%A0%E7%89%A9%E7%88%B1%E5%A5%BD",
     "relUrl": "/things/2022/09/22/asnowtree-inc/#宠物爱好"
-  },"42": {
+  },"46": {
     "doc": "雪树",
     "title": "车辆",
     "content": "同上所有车辆的信息经过收集整理，产出可视化信息（品牌、产地、价格、数量、特点、性价比、年份、使用年限、优点等大量数据归纳） . ",
     "url": "/things/2022/09/22/asnowtree-inc/#%E8%BD%A6%E8%BE%86",
     "relUrl": "/things/2022/09/22/asnowtree-inc/#车辆"
-  },"43": {
+  },"47": {
     "doc": "雪树",
     "title": "工作",
     "content": "（公司职位、行业要求、薪资、职位地点、工作时间段、工作圈相关的信息、猎头、公司高管）所有工作相关的信息 . ",
     "url": "/things/2022/09/22/asnowtree-inc/#%E5%B7%A5%E4%BD%9C",
     "relUrl": "/things/2022/09/22/asnowtree-inc/#工作"
-  },"44": {
+  },"48": {
     "doc": "雪树",
     "title": "建筑",
     "content": "建筑材料、设计、工程管理、工时管理、建筑设备租赁等咨询信息 . ",
     "url": "/things/2022/09/22/asnowtree-inc/#%E5%BB%BA%E7%AD%91",
     "relUrl": "/things/2022/09/22/asnowtree-inc/#建筑"
-  },"45": {
+  },"49": {
     "doc": "雪树",
     "title": "合作管理框架",
     "content": "协助多方合作的管理框架，它为保证合作有效率，合作事项顺利进行及进度可控。 . 很重要的一点是很多时候平台只是信息的搬运工，不是信息的源生产方。在一次信息咨询的服务上需要保证提供有价值信息的一方获取合理收益。 . 一般认为合作管理框架是记录用户同意公开的操作，用户发布信息在平台（提供信息），同时用户咨询信息（获取信息），信息在平台流动产生价值收益时， 如果流动信息是三个用户综合提供的，通过记录智能计算确认三方贡献比=&gt;收益比。 . ",
     "url": "/things/2022/09/22/asnowtree-inc/#%E5%90%88%E4%BD%9C%E7%AE%A1%E7%90%86%E6%A1%86%E6%9E%B6",
     "relUrl": "/things/2022/09/22/asnowtree-inc/#合作管理框架"
-  },"46": {
+  },"50": {
     "doc": "雪树",
     "title": "软件工具开发",
     "content": "雪树科技团队提供web端等软件工具开发服务。 . 框架首先是定义，我们通过软件开发出一个web平台工具来实现上述信息收集与合作管理功能，对框架实例化。团队可以通过用户具体需求具体分析，完成用户在软件方面的需求服务。 . 平台地址 . ",
     "url": "/things/2022/09/22/asnowtree-inc/#%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91",
     "relUrl": "/things/2022/09/22/asnowtree-inc/#软件工具开发"
-  },"47": {
+  },"51": {
     "doc": "雪树",
     "title": "雪树",
     "content": "雪树科技成立，它的意义在于通过软件技术为人提供服务。 . 服务点： . 1.信息收集整理 . 2.合作管理框架 . 3.软件工具开发 . ",
     "url": "/things/2022/09/22/asnowtree-inc/",
     "relUrl": "/things/2022/09/22/asnowtree-inc/"
-  },"48": {
+  },"52": {
     "doc": "雪树平台1.1 发布",
     "title": "雪树平台1.1 发布",
     "content": "8月28日发布雪树服务平台1.1 . asnowtree.cn . ",
     "url": "/things/2022/08/28/ASnowTree-Platform-Release/",
     "relUrl": "/things/2022/08/28/ASnowTree-Platform-Release/"
-  },"49": {
+  },"53": {
     "doc": "Platform business module",
     "title": "用户",
     "content": "个人基本信息、账号信息、信誉、特色技能、兴趣爱好 . ",
     "url": "/things/2022/08/18/Platform-business-module/#%E7%94%A8%E6%88%B7",
     "relUrl": "/things/2022/08/18/Platform-business-module/#用户"
-  },"50": {
+  },"54": {
     "doc": "Platform business module",
     "title": "信息收集整理",
     "content": " ",
     "url": "/things/2022/08/18/Platform-business-module/#%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86%E6%95%B4%E7%90%86",
     "relUrl": "/things/2022/08/18/Platform-business-module/#信息收集整理"
-  },"51": {
+  },"55": {
     "doc": "Platform business module",
     "title": "资源信息",
     "content": "用户公开的互动信息，收集整理、归类 . ",
     "url": "/things/2022/08/18/Platform-business-module/#%E8%B5%84%E6%BA%90%E4%BF%A1%E6%81%AF",
     "relUrl": "/things/2022/08/18/Platform-business-module/#资源信息"
-  },"52": {
+  },"56": {
     "doc": "Platform business module",
     "title": "需求",
     "content": "获取用户需要、委托，整理出直接需求、 . ",
     "url": "/things/2022/08/18/Platform-business-module/#%E9%9C%80%E6%B1%82",
     "relUrl": "/things/2022/08/18/Platform-business-module/#需求"
-  },"53": {
+  },"57": {
     "doc": "Platform business module",
     "title": "解决方案协议",
     "content": "包含智能计算的资源、人匹配解决用户需求委托，提供解决需求的方案； . 提供协作管理框架、协助管理资源，团队合作，协助按照方案步骤完成。 . ",
     "url": "/things/2022/08/18/Platform-business-module/#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E5%8D%8F%E8%AE%AE",
     "relUrl": "/things/2022/08/18/Platform-business-module/#解决方案协议"
-  },"54": {
+  },"58": {
     "doc": "Platform business module",
     "title": "Platform business module",
     "content": " ",
