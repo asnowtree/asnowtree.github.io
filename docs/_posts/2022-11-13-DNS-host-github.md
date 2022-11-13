@@ -5,9 +5,10 @@ author: narule
 categories: [issue]
 ---
 
+实时更新
 
 {: .note .info}
-## host
+DNS-host
 
 
 ```
