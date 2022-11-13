@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="0.1">Jekyll</generator><link href="https://asnowtree.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asnowtree.github.io/" rel="alternate" type="text/html" /><updated>2022-11-14T00:02:22+08:00</updated><id>https://asnowtree.github.io/feed.xml</id><title type="html">ASnowTree • 事件记录摘要-陈述</title><subtitle>往往有一些事情被人们关注或者不关注，当一些事情被人们想了解时，希望此处有所帮助</subtitle><entry><title type="html">github访问超时缓慢问题</title><link href="https://asnowtree.github.io/things/2022/11/13/github-access-problem/" rel="alternate" type="text/html" title="github访问超时缓慢问题" /><published>2022-11-13T23:37:00+08:00</published><updated>2022-11-13T23:37:00+08:00</updated><id>https://asnowtree.github.io/things/2022/11/13/github-access-problem</id><content type="html" xml:base="https://asnowtree.github.io/things/2022/11/13/github-access-problem/"><![CDATA[<p>主要解决在git拉取GitHub.com上面的代码的时候，出现 time out 连接超时，不能成功 pull push的情况</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="0.1">Jekyll</generator><link href="https://asnowtree.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asnowtree.github.io/" rel="alternate" type="text/html" /><updated>2022-11-14T00:02:59+08:00</updated><id>https://asnowtree.github.io/feed.xml</id><title type="html">ASnowTree • 事件记录摘要-陈述</title><subtitle>往往有一些事情被人们关注或者不关注，当一些事情被人们想了解时，希望此处有所帮助</subtitle><entry><title type="html">github访问超时缓慢问题</title><link href="https://asnowtree.github.io/things/2022/11/13/github-access-problem/" rel="alternate" type="text/html" title="github访问超时缓慢问题" /><published>2022-11-13T23:37:00+08:00</published><updated>2022-11-13T23:37:00+08:00</updated><id>https://asnowtree.github.io/things/2022/11/13/github-access-problem</id><content type="html" xml:base="https://asnowtree.github.io/things/2022/11/13/github-access-problem/"><![CDATA[<p>主要解决在git拉取GitHub.com上面的代码的时候，出现 time out 连接超时，不能成功 pull push的情况</p>
 
 <p><a href="https://juejin.cn/post/6960482521788186660">如何解决 github 访问慢的问题</a></p>
 
@@ -28,8 +28,9 @@
 
 </code></pre></div></div>
 
-<p>修改完保存之后， 运行cmd，输入命令
-<code class="language-plaintext highlighter-rouge">ipconfig /flushdns</code></p>
+<p>修改完保存之后， 运行cmd，输入命令</p>
+
+<p><code class="language-plaintext highlighter-rouge">ipconfig /flushdns</code></p>
 
 <p>如果试了之后还是不行，可是重启电脑在尝试</p>
 
