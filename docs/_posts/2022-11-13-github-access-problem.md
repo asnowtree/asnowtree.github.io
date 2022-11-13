@@ -1,5 +1,5 @@
 ---
-title: 'github网站访问问题'
+title: 'github访问超时缓慢问题'
 date: 2022-11-13 23:37:00 +0800
 author: narule
 categories: [issue]
