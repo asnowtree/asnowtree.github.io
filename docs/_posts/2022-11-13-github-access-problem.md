@@ -8,6 +8,7 @@ categories: [issue]
 主要解决在git拉取GitHub.com上面的代码的时候，出现 time out 连接超时，不能成功 pull push的情况
 
 [如何解决 github 访问慢的问题](https://juejin.cn/post/6960482521788186660)
+
 [修改 Hosts 解决 Github 访问失败马克](https://zhuanlan.zhihu.com/p/107334179)
 
 {: .note}
