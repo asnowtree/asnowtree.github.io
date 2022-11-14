@@ -11,9 +11,7 @@
     {% for category in site.categories -%}
     <optgroup label="{{ category | first }}">
     {%- for post in category.last  -%}
-      <option value="{{ post.url | relative_url }}">
-      {{ post.title }}
-      </option>
+      <option value="{{ post.url | relative_url }}">{{- post.title -}}</option>
     {%- endfor %}
     </optgroup>
     {% endfor -%}
