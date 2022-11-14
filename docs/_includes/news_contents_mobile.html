@@ -1,24 +1,19 @@
 <div class="docs-nav-mobile unit whole show-on-mobiles">
   <select onchange="if (this.value) window.location.href=this.value">
     <option value="">Navigate the blog…</option>
-    <option value="{{ '/things/' | relative_url }}">Home</option>
-    
-
-    
-
+    <!-- <option value="{{ '/things/' | relative_url }}">Home</option>
     <optgroup label="posts">
       {% for post in site.posts -%}
       <option value="{{ post.url | relative_url }}">{{ post.title }}</option>
       {% endfor -%}
-    </optgroup>
+    </optgroup> -->
 
     {% for category in site.categories -%}
-    <optgroup label="{{ category }}">
-    {%- for post in category -%}
+    <optgroup label="{{ category.name }}">
+    {%- for post in category.posts -%}
       <option value="{{ post.url | relative_url }}">{{ post.title }}</option>
     {%- endfor %}
     </optgroup>
     {% endfor -%}
-
   </select>
 </div>
