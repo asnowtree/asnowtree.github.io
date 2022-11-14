@@ -23,7 +23,8 @@ categories: [things]
 
 ![2015年交通事故统计](/img/2015-china-traffic-accident.png)
 
-[2021年中国机动车交通事故发生数量为211074起，事故死亡人数为61703人](http://www.chinabgao.com/k/jiaotongshigu/64897.html)
+<a href="http://www.chinabgao.com/k/jiaotongshigu/64897.html" target="_blank">
+2021年中国机动车交通事故发生数量为211074起，事故死亡人数为61703人</a>
 
 {: .note .info}
 ### 车祸与人的关系关联大，与品牌关系不大
