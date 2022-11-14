@@ -21,7 +21,7 @@ categories: [things]
 
 不排除是车的问题和司机的问题两种可能，从珍惜生命角度出发去分析，事故车的牌子不该是议论的重点。
 
-![2015年交通事故统计](img/2015-china-traffic-accident.png)
+![2015年交通事故统计](/img/2015-china-traffic-accident.png)
 
 [2021年中国机动车交通事故发生数量为211074起，事故死亡人数为61703人](http://www.chinabgao.com/k/jiaotongshigu/64897.html)
 
