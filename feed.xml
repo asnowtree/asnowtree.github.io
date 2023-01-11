@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="0.1">Jekyll</generator><link href="https://asnowtree.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asnowtree.github.io/" rel="alternate" type="text/html" /><updated>2023-01-11T08:24:39+08:00</updated><id>https://asnowtree.github.io/feed.xml</id><title type="html">ASnowTree • 事件记录摘要-陈述</title><subtitle>往往有一些事情被人们关注或者不关注，当一些事情被人们想了解时，希望此处有所帮助</subtitle><entry><title type="html">出发点</title><link href="https://asnowtree.github.io/things/2023/01/11/intention/" rel="alternate" type="text/html" title="出发点" /><published>2023-01-11T06:30:00+08:00</published><updated>2023-01-11T06:30:00+08:00</updated><id>https://asnowtree.github.io/things/2023/01/11/intention</id><content type="html" xml:base="https://asnowtree.github.io/things/2023/01/11/intention/"><![CDATA[<h1 id="出发点">出发点</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="0.1">Jekyll</generator><link href="https://asnowtree.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://asnowtree.github.io/" rel="alternate" type="text/html" /><updated>2023-01-11T08:35:25+08:00</updated><id>https://asnowtree.github.io/feed.xml</id><title type="html">ASnowTree • 事件记录摘要-陈述</title><subtitle>往往有一些事情被人们关注或者不关注，当一些事情被人们想了解时，希望此处有所帮助</subtitle><entry><title type="html">出发点</title><link href="https://asnowtree.github.io/things/2023/01/11/intention/" rel="alternate" type="text/html" title="出发点" /><published>2023-01-11T06:30:00+08:00</published><updated>2023-01-11T06:30:00+08:00</updated><id>https://asnowtree.github.io/things/2023/01/11/intention</id><content type="html" xml:base="https://asnowtree.github.io/things/2023/01/11/intention/"><![CDATA[<h1 id="出发点">出发点</h1>
 
 <p>做事情总有出发点，特别是面向社会公开的事情。</p>
 
@@ -93,13 +93,21 @@
 <details>
 <summary>1.知识储备技能问题2.资源问题3精力问题4沟通问题&amp;团队问题</summary>
 
-**知识储备技能问题** ，半导体、芯片、计算机：四轴飞行器的控制中心，完成飞行，控制，起降，控制飞行速度，需要的核心硬件飞控芯片，他完成程序员编写的程序执行、指令执行，大量计算，接收遥控器发送的无线电波信号。并且还涉及物理学力学数学欧拉角完成飞行和飞行机体姿态计算控制，PCB封装问题，电机算法完成控制电机旋转速度及电流大小。虽然有文档，但是也花费了我很多查阅并吸收理解的时间。 
+<strong>知识储备技能问题</strong> ，
+半导体、芯片、计算机：四轴飞行器的控制中心，完成飞行，控制，起降，控制飞行速度，需要的核心硬件飞控芯片，他完成程序员编写的程序执行、指令执行，大量计算，接收遥控器发送的无线电波信号。并且还涉及物理学力学数学欧拉角完成飞行和飞行机体姿态计算控制，PCB封装问题，电机算法完成控制电机旋转速度及电流大小。虽然有文档，但是也花费了我很多查阅并吸收理解的时间。 
 
-**资源问题** ，**硬件上需要** ：大脑-飞控芯片  四肢-无刷电机 螺旋桨  心脏-锂电池 骨架-飞行器架子 遥控器  **软件上需要**：编写程序的软件工具。 这些都是打资源。
 
-**精力问题** 如上知识储备很多，一个人很难多个专业知识都能学会，可能物理专业 计算机专业 数学专业 各一个人更合理
+<strong>资源问题</strong> ，
+<strong>硬件上需要</strong> ：大脑-飞控芯片  四肢-无刷电机 螺旋桨  心脏-锂电池 骨架-飞行器架子 遥控器  <strong>软件上需要</strong>：编写程序的软件工具。 这些都是打资源。
 
-**沟通问题&amp;团队问题** 其实上面1和2的问题解决了也很难完成四轴飞行器，精力问题是需要团队来解决的，多人的分工配合才是这种需要严谨对待的事情的最好执行，同时也解决了精力问题，但是沟通要单独拉出来，因为多人的团队需要有序的执行做事，流程明确，分工明确这需要沟通管理。
+
+<strong>精力问题</strong>
+如上知识储备很多，一个人很难多个专业知识都能学会，可能物理专业 计算机专业 数学专业 各一个人更合理
+
+
+<strong>沟通问题&amp;团队问题</strong> 
+
+其实上面1和2的问题解决了也很难完成四轴飞行器，精力问题是需要团队来解决的，多人的分工配合才是这种需要严谨对待的事情的最好执行，同时也解决了精力问题，但是沟通要单独拉出来，因为多人的团队需要有序的执行做事，流程明确，分工明确这需要沟通管理。
 
 </details>
 
