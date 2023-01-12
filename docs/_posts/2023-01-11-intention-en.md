@@ -63,7 +63,7 @@ This is the end of the expression of the starting point. The following is why th
 
 Here are some food for thought
 
-ideas, work, interests
+ideas, work, interests...
 
 ### Thought
 
@@ -123,7 +123,7 @@ As mentioned above, I did not complete the self-made quadcopter in the end. The 
 
 {: .note .info}
 The above example just means that complex things cannot be bypassed in terms of `1. knowledge reserve skill issue` `2. resource issue` `3 energy issue` `4 communication issue & team issue`,
-And people with the same interest can solve these problems through effective `communication` and `coordination`. The Xueshu platform provides auxiliary services in terms of "communication" and "coordination", so that "communication" and "coordination" go smoothly.
+And people with the same interest can solve these problems through effective `communication` and `coordination`. The Xueshu platform provides auxiliary services in terms of `communication` and `coordination`, so that `communication` and `coordination` go smoothly.
 
 
 ### living environment
