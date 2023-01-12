@@ -34,7 +34,7 @@ Achieve assistance (help) effect through several functions
 * 1 Make relevant information flow faster and more accurate, efficient communication, less errors.
 * 2 Rich information content, wider knowledge point contact.
 * 3 sub-fields for people with the same hobbies, more professional learning but also a relaxed atmosphere.
-*4 as a reference.
+* 4 as a reference.
 
 
 ### 1 Let related information flow faster and more accurately, efficient communication, fewer mistakes.
