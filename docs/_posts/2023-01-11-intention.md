@@ -132,7 +132,8 @@ categories: [issue]
 
 
 ### 生活环境
-{: .note   .info}
+
+{: .note}
 人毕竟不是山里的猴子，还是有人文地理，讲文明，讲进步的。
 
 {: .note .info}
