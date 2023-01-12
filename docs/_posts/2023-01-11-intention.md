@@ -7,8 +7,8 @@ categories: [issue]
 
 ---
 
+[Intention-EN](https://asnowtree.github.io/things/2023/01/12/intention-en/)
 # 出发点
-[Intention-EN](https://asnowtree.github.io/things/2023/01/11/intention-en/)
 做事情总有出发点，多人沟通时说明很重要。
 
 > 我是谁？我从哪来? 要到哪去？为啥我要专为出发点写一个文章表达？ 总觉得做事没有明确的、让人理解的出发点，很难让别人赞成和支持你所作所为；甚至有人想帮助支持你的时候但不是很理解你的出发点想法，也不知道如何去做才能有效的帮助到你（作为身边人）。
