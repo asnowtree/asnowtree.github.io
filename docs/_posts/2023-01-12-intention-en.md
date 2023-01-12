@@ -175,7 +175,7 @@ The platform is mainly engaged in communication and assistance services based on
 
 >Professional, specific **field content** is produced by users in the field, and **belongs to users**, not the platform. The platform is a circulation channel to provide communication, etc.
 {:.note}
-Xueshu platform mainly provides "information protocol services" such as information exchange, communication and cooperation in professional fields and specific fields. The professional content in the field should be published by professional users themselves, and more will be in the academic field. Users in communication can be Casual, but domain-relevant (user-published) professional content must be rigorous;
+Xueshu platform mainly provides `information protocol services` such as information exchange, communication and cooperation in professional fields and specific fields. The professional content in the field should be published by professional users themselves, and more will be in the academic field. Users in communication can be Casual, but domain-relevant (user-published) professional content must be rigorous;
 
 ## Make the question:
 
