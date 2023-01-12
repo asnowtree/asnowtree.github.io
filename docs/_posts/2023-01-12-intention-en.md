@@ -135,7 +135,7 @@ There is a difference between humans and monkeys in the mountains. It is obvious
 I hope it is not understood as discrimination against monkeys. It refers to the obvious difference that humans can feel compared with monkeys, and it leads to the topic that the environment has a great impact on people. `Maybe they have their own civilization`
 
 {: .note .info}
-> The predecessors plant trees and the descendants enjoy the shade. The living environment is like calculus. Newton said `"If I have seen further it is by standing on the shoulders of giants."`. I like this sentence very much. He understands that he has learned a lot from his predecessors, and with the help of his teachers and friends, he has successfully achieved success in various fields. , of course he also gives back to society (eg his research paper).
+> The predecessors plant trees and the descendants enjoy the shade. The living environment is like calculus. Newton said "If I have seen further it is by standing on the shoulders of giants.". I like this sentence very much. He understands that he has learned a lot from his predecessors, and with the help of his teachers and friends, he has successfully achieved success in various fields. , of course he also gives back to society (eg his research paper).
 
 Appearance: Some people were hit by a car while running a red light, some people couldn't afford to go to school, some people were smashed by a huge concrete bridge while driving (the car was directly smashed), and recently I heard that some people went swimming in Sanya and drowned. People are also full of happiness, and it is wonderful that people are different. Listing the bad ones here is just to say that hopefully some things can improve progress.
 
