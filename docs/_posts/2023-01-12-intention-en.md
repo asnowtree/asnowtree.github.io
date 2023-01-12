@@ -53,7 +53,7 @@ The field can be professional, and it should be professional. When you immerse y
 
 
 {: .note .info}
-The platform can have some "reference solutions" for the way of doing things; people may encounter many difficulties and don't know how to do it. Even as a platform, it is difficult to predict why people who use this platform will worry about it next, but there can be Relatively professional and abstract domain solutions are used as reference. For example, if a person lives in a rural area and his house needs to be renovated or rebuilt for a long time, he does not know how to start. Perhaps the guidance on building a house in the field of construction here can help this rural person avoid detours and save some money. `Energy` and `finance`.
+The platform can have some `reference solutions` for the way of doing things; people may encounter many difficulties and don't know how to do it. Even as a platform, it is difficult to predict why people who use this platform will worry about it next, but there can be Relatively professional and abstract domain solutions are used as reference. For example, if a person lives in a rural area and his house needs to be renovated or rebuilt for a long time, he does not know how to start. Perhaps the guidance on building a house in the field of construction here can help this rural person avoid detours and save some money. `Energy` and `finance`.
 
 
 
