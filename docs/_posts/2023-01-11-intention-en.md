@@ -3,7 +3,7 @@ title: 'intention'
 date: 2023-01-11 06:30:00 +0800
 author: narule
 version: 0.1
-categories: [issues]
+categories: [issue]
 
 ---
 [出发点-中文](https://asnowtree.github.io/things/2023/01/11/intention/)
